@@ -34,6 +34,50 @@
         "Relying solely on regulators."
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "Which document records the scope, policies, and procedures of the Artificial Intelligence Management System?",
+      "answer": "The AIMS manual consolidates scope, policies, processes, and continual improvement commitments.",
+      "options": [
+        "Marketing launch runbook.",
+        "AI model hyperparameter log.",
+        "Artificial Intelligence Management System manual.",
+        "Software development backlog."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How does ISO 42001 expect organizations to handle AI-related risks?",
+      "answer": "They must identify, assess, and treat AI risks within the same risk management cycle used across the management system.",
+      "options": [
+        "Ignore risks below financial thresholds.",
+        "Delegate all risk decisions to vendors.",
+        "Apply the AIMS risk management cycle of identification, assessment, treatment, and monitoring.",
+        "Rely solely on regulators to determine risk levels."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does ISO 42001 say about data used for AI training and inference?",
+      "answer": "Data acquisition, preparation, and retention must be governed with documented controls to maintain integrity and privacy.",
+      "options": [
+        "Data governance is optional once models are deployed.",
+        "Only public datasets are allowed.",
+        "Data collection and preparation require defined controls to preserve integrity and privacy.",
+        "Vendors handle all data responsibilities automatically."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which activity supports continual improvement within an AIMS?",
+      "answer": "Periodic internal audits and management reviews evaluate AI objectives, incidents, and opportunities to refine controls.",
+      "options": [
+        "Waiting for certification bodies to report issues.",
+        "Disabling AI systems after launch.",
+        "Conducting internal audits and management reviews focused on AI objectives.",
+        "Relying on marketing campaigns for feedback."
+      ],
+      "correctIndex": 2
     }
   ]
 }
