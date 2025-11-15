@@ -1,0 +1,94 @@
+{
+  "id": "iso27001",
+  "title": "ISO 27001: InfoSec",
+  "questions": [
+    {
+      "question": "What is the primary goal of ISO 27001?",
+      "answer": "To provide a framework for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS).",
+      "options": [
+        "To mandate specific cybersecurity tools.",
+        "To provide a framework for an ISMS.",
+        "To ensure 100% data encryption.",
+        "To replace all other security standards."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clause in ISO 27001 addresses understanding organizational context?",
+      "answer": "Clause 4 requires defining internal and external issues that influence the ISMS.",
+      "options": [
+        "Clause 10: Improvement.",
+        "Clause 4: Context of the organization.",
+        "Clause 6: Planning.",
+        "Clause 8: Operation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does 'ISMS' stand for?",
+      "answer": "Information Security Management System.",
+      "options": [
+        "Information Security Management System.",
+        "Internal Security Monitoring Service.",
+        "Information Systems Management Standard.",
+        "Internal Systems Monitoring Security."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which policy typically defines acceptable use of information assets?",
+      "answer": "The Acceptable Use Policy (AUP) documents expected user behavior.",
+      "options": [
+        "Supplier performance policy.",
+        "Acceptable Use Policy.",
+        "Physical security policy.",
+        "Audit logistics policy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the 'Statement of Applicability' (SoA)?",
+      "answer": "A central document linking the risk assessment results to the selected controls from Annex A, justifying inclusions and exclusions.",
+      "options": [
+        "A list of all company assets.",
+        "A certificate given after the audit.",
+        "A document linking risk assessment to Annex A controls.",
+        "The company's information security policy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of Annex A in ISO 27001?",
+      "answer": "It provides a list of 93 potential information security controls (in the 2022 version) grouped into 4 themes.",
+      "options": [
+        "It is the main body of the standard.",
+        "It lists all possible security risks.",
+        "It's a glossary of terms.",
+        "It provides a list of security controls."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which metric best demonstrates ISMS performance per clause 9.1?",
+      "answer": "Trends in security incidents mapped to implemented controls show effectiveness.",
+      "options": [
+        "Employee headcount trend.",
+        "Security incident trends connected to controls.",
+        "Marketing budget variance.",
+        "Number of physical offices."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the 'PDCA' cycle in the context of an ISMS?",
+      "answer": "Plan-Do-Check-Act. It's a continuous improvement model for the ISMS.",
+      "options": [
+        "Protect-Detect-Contain-Amend.",
+        "Plan-Do-Check-Act.",
+        "Policy-Documentation-Certification-Audit.",
+        "Prevent-Defend-Control-Assess."
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

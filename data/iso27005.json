@@ -1,0 +1,39 @@
+{
+  "id": "iso27005",
+  "title": "ISO 27005: Risk Mgt.",
+  "questions": [
+    {
+      "question": "What is the focus of ISO 27005?",
+      "answer": "It provides guidelines for information security risk management, supporting the requirements of ISO 27001.",
+      "options": [
+        "Network security auditing.",
+        "Guidelines for information security risk management.",
+        "Physical security controls.",
+        "Software development lifecycle."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which activity follows risk identification in ISO 27005?",
+      "answer": "Risk analysis is performed to evaluate likelihood and impact.",
+      "options": [
+        "Risk treatment.",
+        "Risk communication.",
+        "Risk analysis.",
+        "Control monitoring."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What should be done with risks that exceed the acceptance criteria?",
+      "answer": "Apply a risk treatment option, such as implementing or strengthening controls.",
+      "options": [
+        "Document them for future audits only.",
+        "Treat or mitigate them with selected controls.",
+        "Transfer them to HR.",
+        "Delete them from the register."
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

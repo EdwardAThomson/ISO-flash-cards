@@ -1,0 +1,39 @@
+{
+  "id": "iso31000",
+  "title": "ISO 31000: Risk Mgt. (General)",
+  "questions": [
+    {
+      "question": "What is ISO 31000?",
+      "answer": "A set of principles and generic guidelines on risk management, applicable to any organization, regardless of type, size, or industry.",
+      "options": [
+        "A certification for financial risk.",
+        "Generic guidelines on risk management.",
+        "A standard for data breach reporting.",
+        "A quality management standard."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which three building blocks form the ISO 31000 framework?",
+      "answer": "Principles, framework, and process provide structure for risk management.",
+      "options": [
+        "Plan, Do, Check.",
+        "Principles, Framework, Process.",
+        "Policies, Audits, Controls.",
+        "Detect, Respond, Recover."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How does ISO 31000 define ownership of risk?",
+      "answer": "Risk should be owned by decision makers at every level and integrated into governance.",
+      "options": [
+        "Only the board owns risk.",
+        "Consultants own the risk register.",
+        "Decision makers across the organization own risk.",
+        "Auditors own all risk decisions."
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
