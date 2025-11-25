@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A4L1-01",
+    "question": "In an AIMS based on ISO 42001, what does AI risk primarily refer to?",
+    "answer": "The possibility that AI systems cause unwanted outcomes or harm to objectives, people, or compliance obligations.",
+    "options": [
+      "Only the chance that AI models will be too expensive to run.",
+      "The possibility that AI systems cause unwanted outcomes or harm to objectives, people, or compliance obligations.",
+      "The guarantee that AI will always improve business results.",
+      "Only the risk of losing competitive advantage to other AI users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L1-02",
+    "question": "What is the main purpose of AI risk assessment in an AIMS?",
+    "answer": "To identify, analyze, and evaluate AI-related risks so that appropriate treatment options and controls can be selected.",
+    "options": [
+      "To justify deploying as many AI systems as possible.",
+      "To identify, analyze, and evaluate AI-related risks so that appropriate treatment options and controls can be selected.",
+      "To eliminate the need for monitoring AI systems after deployment.",
+      "To calculate the exact financial return of every AI project."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L1-03",
+    "question": "Which aspect is especially important when considering impacts of AI risks?",
+    "answer": "Potential effects on people, such as fairness, safety, and rights, in addition to organizational objectives.",
+    "options": [
+      "Only effects on short-term revenue.",
+      "Potential effects on people, such as fairness, safety, and rights, in addition to organizational objectives.",
+      "Only the carbon footprint of the AI training run.",
+      "Only the number of AI features in the product roadmap."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L1-04",
+    "question": "How does AI risk management under ISO 42001 typically relate to the organization's overall risk management framework?",
+    "answer": "AI risks are managed within the organization's broader risk management approach so methods and criteria remain consistent.",
+    "options": [
+      "AI risks are handled completely separately and never linked to organizational risk management.",
+      "AI risks are managed within the organization's broader risk management approach so methods and criteria remain consistent.",
+      "AI risks replace all other forms of risk management.",
+      "AI risks are only considered during product marketing."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L2-01",
+    "question": "Why should AI risk criteria consider both likelihood and severity of impacts?",
+    "answer": "Because some AI failures may be unlikely but have severe consequences, while others may be frequent but minor, and both need to be evaluated.",
+    "options": [
+      "Because regulations require every risk to be rated as high by default.",
+      "Because some AI failures may be unlikely but have severe consequences, while others may be frequent but minor, and both need to be evaluated.",
+      "Because severity is irrelevant when likelihood is high.",
+      "Because likelihood can be ignored if AI models are accurate."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L2-02",
+    "question": "How does understanding the organization's risk appetite influence AI risk treatment?",
+    "answer": "It guides which AI risks are acceptable, which require additional controls, and which may require changing or stopping an AI activity.",
+    "options": [
+      "It allows the organization to ignore all low-probability AI risks.",
+      "It guides which AI risks are acceptable, which require additional controls, and which may require changing or stopping an AI activity.",
+      "It only determines how many AI models can be deployed each year.",
+      "It replaces the need for stakeholder engagement."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L2-03",
+    "question": "Why is it important to consider cumulative or systemic effects when assessing AI risks?",
+    "answer": "Multiple AI systems or repeated decisions can together create impacts that are more serious than any single event alone.",
+    "options": [
+      "Because systemic effects always reduce overall risk.",
+      "Multiple AI systems or repeated decisions can together create impacts that are more serious than any single event alone.",
+      "Because systemic effects matter only for experimental AI, not production systems.",
+      "Because cumulative effects apply only to financial risk, not human impacts."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L3-01",
+    "question": "A team wants to deploy an AI system that could significantly affect access to essential services but has not yet performed a risk assessment. What is the AIMS-consistent action?",
+    "answer": "Require a documented AI risk assessment before deployment to identify and address potential harms.",
+    "options": [
+      "Allow deployment and plan to do a risk assessment only if complaints arise.",
+      "Require a documented AI risk assessment before deployment to identify and address potential harms.",
+      "Ignore risks because the model passed technical performance tests.",
+      "Rely on the vendor's marketing material instead of assessing risk."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L3-02",
+    "question": "An AI model in production shows signs of drift and starts producing inconsistent results. What should the organization do from an AI risk management perspective?",
+    "answer": "Reassess the AI risks, investigate causes, and adjust controls, data, or model settings before continuing normal operation.",
+    "options": [
+      "Ignore the issue as long as no one formally complains.",
+      "Reassess the AI risks, investigate causes, and adjust controls, data, or model settings before continuing normal operation.",
+      "Increase the model's confidence thresholds without analysis.",
+      "Disable all monitoring so drift metrics are not visible."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A4L3-03",
+    "question": "A vendor provides a pre-built AI service that your organization integrates into its product. How should risk responsibilities be handled in the AIMS?",
+    "answer": "The organization should clarify and document shared responsibilities with the vendor while still managing the AI risks within its own AIMS.",
+    "options": [
+      "Assume the vendor alone is responsible so no internal risk activities are needed.",
+      "The organization should clarify and document shared responsibilities with the vendor while still managing the AI risks within its own AIMS.",
+      "Transfer all risks to customers using contractual terms.",
+      "Treat the AI service as outside the scope of the AIMS."
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A2L1-01",
+    "question": "In the context of ISO 42001, what does \"context of the organization\" mainly refer to for AI systems?",
+    "answer": "The internal and external factors that can influence how AI systems are designed, operated, and controlled by the AIMS.",
+    "options": [
+      "Only the technical properties of the AI models the organization uses.",
+      "The internal and external factors that can influence how AI systems are designed, operated, and controlled by the AIMS.",
+      "Only the personal preferences of the AI development team.",
+      "The number of AI vendors the organization works with."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L1-02",
+    "question": "Which of the following is an example of an external issue relevant to the AIMS context?",
+    "answer": "Regulatory expectations and laws that affect how the organization can develop and use AI.",
+    "options": [
+      "The choice of programming language for AI models.",
+      "Personal hobbies of the AI engineers.",
+      "Regulatory expectations and laws that affect how the organization can develop and use AI.",
+      "The color scheme of the AI user interface."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A2L1-03",
+    "question": "Who are considered stakeholders in the context of an AIMS?",
+    "answer": "Individuals and organizations that can affect, be affected by, or perceive themselves to be affected by the organization's AI systems.",
+    "options": [
+      "Only employees in the AI development team.",
+      "Individuals and organizations that can affect, be affected by, or perceive themselves to be affected by the organization's AI systems.",
+      "Only external regulators.",
+      "Only the customers who directly purchase AI products."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L1-04",
+    "question": "Which group is most likely a key stakeholder for high-impact AI systems?",
+    "answer": "People whose rights, safety, or opportunities may be affected by AI decisions, such as customers or end users.",
+    "options": [
+      "Only the marketing team creating AI advertisements.",
+      "People whose rights, safety, or opportunities may be affected by AI decisions, such as customers or end users.",
+      "Only the organization's shareholders.",
+      "Only cloud service providers."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L2-01",
+    "question": "Why should an organization analyze internal issues when defining the AIMS context?",
+    "answer": "Internal issues such as culture, skills, and existing processes influence how effectively AI risks can be managed and controls can be implemented.",
+    "options": [
+      "Internal issues are irrelevant because AI behavior is determined only by external data.",
+      "Internal issues such as culture, skills, and existing processes influence how effectively AI risks can be managed and controls can be implemented.",
+      "Internal issues determine the legal requirements the organization must follow.",
+      "Internal issues decide which AI vendors are allowed to operate in the market."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L2-02",
+    "question": "How does stakeholder analysis support responsible AI under an AIMS?",
+    "answer": "It helps identify who may be affected by AI systems so their expectations, risks, and concerns can inform AIMS objectives and controls.",
+    "options": [
+      "It replaces the need for risk assessment of AI systems.",
+      "It is mainly used to prioritize AI marketing campaigns.",
+      "It helps identify who may be affected by AI systems so their expectations, risks, and concerns can inform AIMS objectives and controls.",
+      "It allows the organization to ignore any stakeholders outside of its home country."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A2L2-03",
+    "question": "Why is it important to consider both direct and indirect stakeholders for AI systems?",
+    "answer": "Indirect stakeholders, such as people indirectly influenced by AI decisions, may experience impacts that need to be managed even if they do not use the AI directly.",
+    "options": [
+      "Indirect stakeholders can always be ignored because they do not use the AI.",
+      "Only direct customers can be harmed by AI decisions.",
+      "Indirect stakeholders, such as people indirectly influenced by AI decisions, may experience impacts that need to be managed even if they do not use the AI directly.",
+      "Indirect stakeholders are the sole focus of the AIMS."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A2L3-01",
+    "question": "An organization is deploying an AI system that ranks job applicants. Which stakeholder group is most critical to include when assessing context and expectations?",
+    "answer": "Applicants whose chances of employment may be influenced by the AI system.",
+    "options": [
+      "Only the AI vendor providing the ranking algorithm.",
+      "Applicants whose chances of employment may be influenced by the AI system.",
+      "Only the finance department that funds the project.",
+      "Only competitors in the same industry."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L3-02",
+    "question": "A company uses AI to personalize pricing. Public concern arises about fairness. What is the most appropriate AIMS-aligned response?",
+    "answer": "Re-examine the AIMS context and stakeholder expectations, then adjust objectives and controls to address fairness and transparency concerns.",
+    "options": [
+      "Ignore the concerns because the AI system is technically accurate.",
+      "Re-examine the AIMS context and stakeholder expectations, then adjust objectives and controls to address fairness and transparency concerns.",
+      "Shut down all AI systems permanently, regardless of impact.",
+      "Rely solely on the vendor to handle any fairness issues."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A2L3-03",
+    "question": "During a context review, an organization discovers a new AI regulation that affects one of its services. How should this influence the AIMS?",
+    "answer": "The AIMS scope, objectives, and controls should be updated so the affected AI service and related processes comply with the new regulation.",
+    "options": [
+      "The organization can delay any changes until the next certification audit.",
+      "The AIMS should be abandoned and replaced by informal practices.",
+      "The AIMS scope, objectives, and controls should be updated so the affected AI service and related processes comply with the new regulation.",
+      "The organization should apply the new regulation only to pilot AI projects."
+    ],
+    "correctIndex": 2
+  }
+]

@@ -8,6 +8,7 @@ A small, static web app to study ISO standards using flashcards and multiple‑c
 - Practice and Test modes
 - Random K‑of‑N session sampling (no bias), labeled 1..K per session
 - Reference IDs retained for traceability (do not affect session numbering)
+- **Sub-area filtering** for topics with multiple sections (e.g., ISO 42001 A1–A8)
 - Simple, fast static hosting — no backend required
 
 ## Quick Start
@@ -17,7 +18,7 @@ Because the app loads JSON via `fetch`, open it via a local web server (not the 
 - Node (serve): `npx serve .`
 - Node (http-server): `npx http-server -p 8000`
 
-Then open `http://localhost:8000` and navigate to `index.html`.
+Then open the URL shown in your terminal (e.g., `http://localhost:8000` or `http://127.0.0.1:8000`). The exact IP and port may vary depending on your environment.
 
 ## Usage
 - Select a topic at the top.

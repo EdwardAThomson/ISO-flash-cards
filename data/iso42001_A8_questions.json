@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A8L1-01",
+    "question": "In an AIMS, what is the main purpose of performance evaluation?",
+    "answer": "To assess whether AI objectives, controls, and processes are effective and delivering the intended outcomes.",
+    "options": [
+      "To confirm that AI projects always stay under budget.",
+      "To assess whether AI objectives, controls, and processes are effective and delivering the intended outcomes.",
+      "To track only the number of AI models deployed.",
+      "To replace the need for monitoring AI systems in operation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L1-02",
+    "question": "What is typically reviewed during AIMS internal audits?",
+    "answer": "Whether AIMS processes are implemented as intended and conform to defined requirements and policies.",
+    "options": [
+      "Only the personal opinions of AI developers.",
+      "Whether AIMS processes are implemented as intended and conform to defined requirements and policies.",
+      "Only marketing materials describing AI features.",
+      "Only the financial performance of AI products."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L1-03",
+    "question": "What is a management review in the context of an AIMS?",
+    "answer": "A periodic top-management meeting to review AIMS performance, risks, opportunities, and needed changes.",
+    "options": [
+      "A daily stand-up meeting of AI developers.",
+      "A periodic top-management meeting to review AIMS performance, risks, opportunities, and needed changes.",
+      "An external certification audit performed by a third party.",
+      "A one-time workshop held during AIMS implementation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L1-04",
+    "question": "What does continual improvement mean for an AIMS?",
+    "answer": "Ongoing efforts to enhance the suitability, adequacy, and effectiveness of the AIMS over time.",
+    "options": [
+      "Making a single large change to the AIMS and then stopping.",
+      "Ongoing efforts to enhance the suitability, adequacy, and effectiveness of the AIMS over time.",
+      "Replacing the AIMS every year with a new framework.",
+      "Focusing only on cost reduction, ignoring effectiveness."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L2-01",
+    "question": "Why should AI performance indicators go beyond technical accuracy metrics?",
+    "answer": "Because impacts on users, fairness, compliance, and business outcomes may not be visible in accuracy alone.",
+    "options": [
+      "Because accuracy metrics are never useful for AI systems.",
+      "Because impacts on users, fairness, compliance, and business outcomes may not be visible in accuracy alone.",
+      "Because indicators should focus only on infrastructure costs.",
+      "Because only qualitative feedback should be used."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L2-02",
+    "question": "How do internal audit results support continual improvement of the AIMS?",
+    "answer": "They highlight nonconformities and opportunities for improvement that can be addressed through corrective and preventive actions.",
+    "options": [
+      "They are mainly used to assign blame for past decisions.",
+      "They highlight nonconformities and opportunities for improvement that can be addressed through corrective and preventive actions.",
+      "They are filed away without follow-up once the audit is complete.",
+      "They replace the need for management reviews."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L2-03",
+    "question": "Why should management reviews consider changes in context, risks, and technology?",
+    "answer": "Because shifts in these areas can affect whether current AIMS objectives and controls remain appropriate and effective.",
+    "options": [
+      "Because reviews should focus only on past incidents.",
+      "Because shifts in these areas can affect whether current AIMS objectives and controls remain appropriate and effective.",
+      "Because context and risks are fixed once the AIMS is certified.",
+      "Because technology changes automatically update AIMS documents."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L3-01",
+    "question": "Audit findings show that some AI lifecycle activities are not following AIMS procedures. What is an AIMS-consistent response?",
+    "answer": "Record the nonconformities, investigate root causes, and implement corrective actions to align practice with defined procedures.",
+    "options": [
+      "Ignore the findings if no external party has complained.",
+      "Record the nonconformities, investigate root causes, and implement corrective actions to align practice with defined procedures.",
+      "Change the procedures informally without documentation.",
+      "Wait for the next certification audit to decide what to do."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L3-02",
+    "question": "A management review identifies that AI objectives are no longer aligned with business strategy. What should be done?",
+    "answer": "Update AI objectives and related AIMS plans so that they support the revised business strategy and risk priorities.",
+    "options": [
+      "Keep the existing AI objectives unchanged.",
+      "Update AI objectives and related AIMS plans so that they support the revised business strategy and risk priorities.",
+      "Suspend all AI activities until the next review.",
+      "Remove AIMS objectives entirely to increase flexibility."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A8L3-03",
+    "question": "Several AI incidents over the past year reveal repeating patterns. What continual improvement action is appropriate?",
+    "answer": "Analyze the patterns across incidents and strengthen AIMS controls, training, or processes to address the systemic causes.",
+    "options": [
+      "Treat each incident separately without looking for patterns.",
+      "Analyze the patterns across incidents and strengthen AIMS controls, training, or processes to address the systemic causes.",
+      "Delete incident records after each fix is applied.",
+      "Focus only on improving model accuracy, ignoring process issues."
+    ],
+    "correctIndex": 1
+  }
+]

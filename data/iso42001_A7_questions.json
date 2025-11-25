@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A7L1-01",
+    "question": "In an AIMS, what is the main purpose of human oversight of AI systems?",
+    "answer": "To ensure people can supervise AI behavior, intervene when needed, and remain accountable for important decisions.",
+    "options": [
+      "To remove humans from all decision-making.",
+      "To ensure people can supervise AI behavior, intervene when needed, and remain accountable for important decisions.",
+      "To guarantee that AI systems will always be more accurate than humans.",
+      "To let users reprogram AI models during operation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L1-02",
+    "question": "What is an AI incident in the context of an AIMS?",
+    "answer": "An event where an AI system behaves in an unexpected or undesired way that could lead to harm or nonconformity.",
+    "options": [
+      "Any minor bug discovered during early development.",
+      "An event where an AI system behaves in an unexpected or undesired way that could lead to harm or nonconformity.",
+      "Only events that result in public media coverage.",
+      "Only data-center outages unrelated to AI behavior."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L1-03",
+    "question": "Which of the following is often included in responsible AI principles?",
+    "answer": "Considerations such as fairness, transparency, accountability, and respect for human rights.",
+    "options": [
+      "Maximizing data collection without limits.",
+      "Considerations such as fairness, transparency, accountability, and respect for human rights.",
+      "Removing all human decision-making from business processes.",
+      "Guaranteeing that AI will always replace human judgment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L1-04",
+    "question": "What is the purpose of an AI incident response process in an AIMS?",
+    "answer": "To detect, report, analyze, and address AI incidents so that impacts are managed and improvements are implemented.",
+    "options": [
+      "To archive AI incidents without any follow-up.",
+      "To detect, report, analyze, and address AI incidents so that impacts are managed and improvements are implemented.",
+      "To assign blame to individuals instead of improving processes.",
+      "To guarantee that no incidents will ever happen again."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L2-01",
+    "question": "Why is it important that humans involved in oversight understand the AI system they supervise?",
+    "answer": "Without adequate understanding, oversight may be superficial and people may not recognize or correct problematic behavior.",
+    "options": [
+      "Because understanding is only needed for software engineers.",
+      "Without adequate understanding, oversight may be superficial and people may not recognize or correct problematic behavior.",
+      "Because understanding eliminates the need for documentation.",
+      "Because oversight can be delegated entirely to the AI system."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L2-02",
+    "question": "How do responsible AI principles relate to the AIMS?",
+    "answer": "They guide how objectives, controls, and decisions are set so that AI use aligns with the organization's values and obligations.",
+    "options": [
+      "They are optional statements with no link to AIMS processes.",
+      "They guide how objectives, controls, and decisions are set so that AI use aligns with the organization's values and obligations.",
+      "They apply only to experimental research systems.",
+      "They replace the need for any risk assessment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L2-03",
+    "question": "Why should AI incidents be analyzed for root causes, not just fixed individually?",
+    "answer": "Because underlying issues in data, models, processes, or governance can cause repeated incidents if not addressed.",
+    "options": [
+      "Because root-cause analysis is required only for legal reasons.",
+      "Because underlying issues in data, models, processes, or governance can cause repeated incidents if not addressed.",
+      "Because every incident must result in a new AI system.",
+      "Because individual fixes are always more effective than systemic changes."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L3-01",
+    "question": "A customer-facing AI system occasionally produces results that appear biased. What is an AIMS-consistent oversight action?",
+    "answer": "Escalate the issue through the incident process, review data and model behavior, and involve responsible stakeholders in deciding corrective actions.",
+    "options": [
+      "Ignore the reports as long as overall accuracy is high.",
+      "Escalate the issue through the incident process, review data and model behavior, and involve responsible stakeholders in deciding corrective actions.",
+      "Disable all logging so bias cannot be measured.",
+      "Ask users to adjust their expectations without any changes."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L3-02",
+    "question": "An AI system is used to support critical decisions, but human reviewers approve outputs automatically without checking them. What should be improved?",
+    "answer": "The design and training of human oversight so reviewers understand when and how to challenge or override AI outputs.",
+    "options": [
+      "Automation levels should be increased so humans are removed.",
+      "The design and training of human oversight so reviewers understand when and how to challenge or override AI outputs.",
+      "Incident reporting should be disabled to reduce workload.",
+      "The organization should stop documenting any decisions."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A7L3-03",
+    "question": "After a serious AI incident, leadership wants to move on quickly without documenting lessons learned. What is the AIMS-aligned approach?",
+    "answer": "Conduct a structured review, capture lessons learned, and update controls, training, or processes to reduce the chance of recurrence.",
+    "options": [
+      "Avoid documenting the incident to limit internal discussion.",
+      "Conduct a structured review, capture lessons learned, and update controls, training, or processes to reduce the chance of recurrence.",
+      "Blame individual users and keep the system unchanged.",
+      "Rely on future audits to identify similar issues."
+    ],
+    "correctIndex": 1
+  }
+]

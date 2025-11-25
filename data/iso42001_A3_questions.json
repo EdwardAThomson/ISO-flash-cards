@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A3L1-01",
+    "question": "What is a key responsibility of top management in relation to the AIMS under ISO 42001?",
+    "answer": "To demonstrate leadership and commitment by ensuring the AIMS is established, supported, and integrated into organizational processes.",
+    "options": [
+      "To delegate all AI decisions to external vendors.",
+      "To demonstrate leadership and commitment by ensuring the AIMS is established, supported, and integrated into organizational processes.",
+      "To focus only on approving AI tools without considering impacts.",
+      "To avoid being involved in any AI-related risk decisions."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L1-02",
+    "question": "What is the primary purpose of an AI policy in an AIMS?",
+    "answer": "To state the organization's intentions and principles for how AI will be developed and used under the AIMS.",
+    "options": [
+      "To provide detailed technical configurations for every AI model.",
+      "To state the organization's intentions and principles for how AI will be developed and used under the AIMS.",
+      "To list the personal opinions of AI developers about emerging technologies.",
+      "To describe only the marketing strategy for AI products."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L1-03",
+    "question": "Which statement best describes roles and responsibilities in an AIMS?",
+    "answer": "Roles and responsibilities define who is accountable and who performs specific tasks to operate and improve the AIMS.",
+    "options": [
+      "Roles and responsibilities are optional and can be left undefined.",
+      "Roles and responsibilities define who is accountable and who performs specific tasks to operate and improve the AIMS.",
+      "Roles and responsibilities only cover external auditors.",
+      "Roles and responsibilities apply only to technical AI developers."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L1-04",
+    "question": "Why should AI policy and objectives be consistent with the organization's overall strategy?",
+    "answer": "Because the AIMS is meant to support organizational goals, not operate independently of business priorities.",
+    "options": [
+      "Because AI objectives must always be unrelated to business outcomes.",
+      "Because the AIMS is meant to support organizational goals, not operate independently of business priorities.",
+      "Because policies can only be approved by external stakeholders.",
+      "Because strategy documents must always be identical across all standards."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L2-01",
+    "question": "How does visible leadership support responsible AI in an AIMS?",
+    "answer": "Visible leadership shows that responsible AI is a priority, helping secure resources, resolve conflicts, and reinforce expectations across teams.",
+    "options": [
+      "Visible leadership allows top management to avoid making decisions about AI.",
+      "Visible leadership shows that responsible AI is a priority, helping secure resources, resolve conflicts, and reinforce expectations across teams.",
+      "Visible leadership is mainly for external marketing and has no internal effect.",
+      "Visible leadership replaces the need for documented AI policies."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L2-02",
+    "question": "Why is it important to assign clear responsibilities for monitoring AI performance and risks?",
+    "answer": "Without clear responsibilities, issues may be missed or unmanaged, weakening the effectiveness of the AIMS.",
+    "options": [
+      "Because responsibilities should only be documented for certification audits.",
+      "Without clear responsibilities, issues may be missed or unmanaged, weakening the effectiveness of the AIMS.",
+      "Because responsibilities must be rotated randomly each week.",
+      "Because responsibilities are only needed for low-risk AI systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L2-03",
+    "question": "How should leadership handle conflicts between business pressure to release an AI feature and AIMS requirements?",
+    "answer": "Leadership should balance business goals with AIMS controls, ensuring risks are managed and requirements are not bypassed for speed.",
+    "options": [
+      "Always prioritize release speed and ignore AIMS requirements.",
+      "Leadership should balance business goals with AIMS controls, ensuring risks are managed and requirements are not bypassed for speed.",
+      "Automate all leadership decisions using AI to remove bias.",
+      "Leave the decision entirely to the AI development team."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L3-01",
+    "question": "A company has an AI policy but most employees are unaware of it. What should leadership do to align with ISO 42001?",
+    "answer": "Ensure the AI policy is communicated, understood, and applied through training, awareness, and leadership example.",
+    "options": [
+      "Keep the policy confidential so it is not misinterpreted.",
+      "Ensure the AI policy is communicated, understood, and applied through training, awareness, and leadership example.",
+      "Rely on external auditors to explain the policy to employees.",
+      "Assume that publishing the policy on an internal website is sufficient."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L3-02",
+    "question": "An AI incident occurs that harms users. Leadership wants to avoid negative publicity and decides not to review the incident formally. What is the AIMS-aligned action instead?",
+    "answer": "Leadership should ensure the incident is investigated, reviewed, and used to improve AIMS controls and communication, even if it is uncomfortable.",
+    "options": [
+      "Ignore the incident and hope it is not repeated.",
+      "Leadership should ensure the incident is investigated, reviewed, and used to improve AIMS controls and communication, even if it is uncomfortable.",
+      "Blame individual developers without changing any processes.",
+      "Rely on users to adapt to the AI behavior without changes."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A3L3-03",
+    "question": "A new AI initiative starts without any defined AIMS roles. What should leadership do to stay consistent with ISO 42001?",
+    "answer": "Assign and document roles for AI governance, risk management, and operations before the initiative proceeds further.",
+    "options": [
+      "Allow the project to continue with no defined roles and see what happens.",
+      "Assign and document roles for AI governance, risk management, and operations before the initiative proceeds further.",
+      "Wait until an external incident occurs before defining any roles.",
+      "Delegate all responsibilities to a single developer working on the project."
+    ],
+    "correctIndex": 1
+  }
+]

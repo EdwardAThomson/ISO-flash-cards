@@ -8,7 +8,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Load Inter font -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css?v=3">
+    <link rel="stylesheet" href="styles.css?v=4">
 </head>
 <body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
 
@@ -20,30 +20,50 @@
             <p class="text-lg text-gray-500 mt-2">Flashcards & Quizzes</p>
         </header>
 
-        <!-- Controls: Topic and Mode Selectors -->
-        <div class="flex flex-col sm:flex-row justify-between gap-4 mb-8">
+        <!-- Controls Row 1: Topic & Area Filters -->
+        <div class="flex flex-col sm:flex-row gap-4 mb-4">
             <!-- Topic Selector -->
-            <div>
+            <div class="flex-1">
                 <label for="topic-select" class="block text-sm font-medium text-gray-700 mb-1">Select Topic:</label>
-                <select id="topic-select" class="w-full sm:w-auto p-2 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                <select id="topic-select" class="w-full p-2 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
                     <!-- Options will be populated by JS -->
                 </select>
             </div>
 
+            <!-- Sub-Area Filter (shown for topics with areas) -->
+            <div id="area-filter-container" class="flex-1 hidden">
+                <label for="area-select" class="block text-sm font-medium text-gray-700 mb-1">Filter by Area:</label>
+                <select id="area-select" class="w-full p-2 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    <!-- Options will be populated by JS -->
+                </select>
+            </div>
+        </div>
+
+        <!-- Controls Row 2: Mode & Session Size -->
+        <div class="flex flex-col sm:flex-row items-start sm:items-end justify-between gap-4 mb-6">
             <!-- Mode Selector -->
-            <div class="flex items-center space-x-2">
-                <button id="mode-practice" class="flex-1 sm:flex-auto px-4 py-2 rounded-lg font-medium text-sm transition-all">
-                    Practice Mode
-                </button>
-                <button id="mode-test" class="flex-1 sm:flex-auto px-4 py-2 rounded-lg font-medium text-sm transition-all">
-                    Test Mode
-                </button>
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-1">Mode:</label>
+                <div class="flex space-x-2">
+                    <button id="mode-practice" class="px-4 py-2 rounded-lg font-medium text-sm transition-all">
+                        Practice
+                    </button>
+                    <button id="mode-test" class="px-4 py-2 rounded-lg font-medium text-sm transition-all">
+                        Test
+                    </button>
+                </div>
             </div>
             
             <!-- Session Size -->
             <div>
                 <label for="session-size" class="block text-sm font-medium text-gray-700 mb-1">Cards this session:</label>
                 <input id="session-size" type="number" min="1" value="10" class="w-full sm:w-28 p-2 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+            </div>
+
+            <!-- Question Bank Indicator -->
+            <div class="text-right">
+                <p class="text-sm font-medium text-gray-700 mb-1">Question Bank:</p>
+                <p id="question-bank-count" class="text-sm text-gray-500">-- questions</p>
             </div>
         </div>
 
@@ -86,6 +106,6 @@
         </p>
 
     </main>
-    <script src="app.js?v=3"></script>
+    <script src="app.js?v=4"></script>
 </body>
 </html>

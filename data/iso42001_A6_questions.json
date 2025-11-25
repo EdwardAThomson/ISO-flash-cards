@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A6L1-01",
+    "question": "What does the AI lifecycle typically include in an AIMS?",
+    "answer": "Activities from planning and design through development, deployment, operation, monitoring, and retirement of AI systems.",
+    "options": [
+      "Only the initial training of the AI model.",
+      "Activities from planning and design through development, deployment, operation, monitoring, and retirement of AI systems.",
+      "Only the marketing and sales phase of AI products.",
+      "Only the decommissioning of legacy systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L1-02",
+    "question": "Why are change management processes important for AI systems under an AIMS?",
+    "answer": "Because changes to data, models, or code can alter behavior and risk, so they need to be evaluated and controlled.",
+    "options": [
+      "Because AI systems should never be updated after deployment.",
+      "Because changes to data, models, or code can alter behavior and risk, so they need to be evaluated and controlled.",
+      "Because change management is required only for non-AI software.",
+      "Because it guarantees no incidents will occur."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L1-03",
+    "question": "What is the main purpose of testing AI systems before deployment?",
+    "answer": "To check whether the AI behaves as intended, meets defined criteria, and does not introduce unacceptable risks.",
+    "options": [
+      "To ensure the AI system can never fail in any situation.",
+      "To check whether the AI behaves as intended, meets defined criteria, and does not introduce unacceptable risks.",
+      "To shorten the overall development lifecycle.",
+      "To replace the need for monitoring after deployment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L1-04",
+    "question": "What is meant by operating an AI system under defined conditions?",
+    "answer": "Running the AI within the input ranges, use cases, and constraints that were assumed during design and testing.",
+    "options": [
+      "Allowing the AI to be used in any context without restriction.",
+      "Running the AI within the input ranges, use cases, and constraints that were assumed during design and testing.",
+      "Limiting AI use only to internal prototypes.",
+      "Using the AI model only once and then discarding it."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L2-01",
+    "question": "Why should deployment of AI systems be planned and approved under the AIMS?",
+    "answer": "So that responsibilities, controls, and readiness checks are confirmed before the AI affects real users or processes.",
+    "options": [
+      "So that deployment can happen without involving any stakeholders.",
+      "So that responsibilities, controls, and readiness checks are confirmed before the AI affects real users or processes.",
+      "So that every deployment is identical regardless of risk.",
+      "So that deployment can bypass any risk management activities."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L2-02",
+    "question": "How does ongoing monitoring fit into the AI lifecycle in an AIMS?",
+    "answer": "Monitoring checks real-world performance and impacts so issues like drift, bias, or failures can be detected and addressed.",
+    "options": [
+      "Monitoring is only needed during initial model training.",
+      "Monitoring checks real-world performance and impacts so issues like drift, bias, or failures can be detected and addressed.",
+      "Monitoring is mainly to count how many users interact with the AI.",
+      "Monitoring replaces the need for incident handling."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L2-03",
+    "question": "Why is it important to define criteria for when an AI system should be updated or retired?",
+    "answer": "Because performance, data, or context can change, and clear criteria help decide when to adjust or discontinue the system responsibly.",
+    "options": [
+      "Because AI systems must be retired after a fixed number of days.",
+      "Because performance, data, or context can change, and clear criteria help decide when to adjust or discontinue the system responsibly.",
+      "Because retirement decisions should always be left to external regulators.",
+      "Because it removes the need for any ongoing monitoring."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L3-01",
+    "question": "A team wants to make a major change to an AI model's architecture. What is an AIMS-consistent first step?",
+    "answer": "Assess the change through the AI change management process, including impacts on risk, testing, and documentation.",
+    "options": [
+      "Implement the change directly in production and monitor user complaints.",
+      "Assess the change through the AI change management process, including impacts on risk, testing, and documentation.",
+      "Skip testing because the previous version was already approved.",
+      "Allow any developer to change the model without review."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L3-02",
+    "question": "An AI system is deployed in a new country with different regulatory expectations. What should be done from an AI lifecycle perspective?",
+    "answer": "Review lifecycle controls, risks, and documentation to ensure the AI system remains appropriate and compliant in the new context.",
+    "options": [
+      "Assume the AI system will behave the same everywhere and make no changes.",
+      "Review lifecycle controls, risks, and documentation to ensure the AI system remains appropriate and compliant in the new context.",
+      "Disable all monitoring because regulations differ.",
+      "Delegate responsibility entirely to the local users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A6L3-03",
+    "question": "Monitoring shows that an AI system occasionally produces unsafe recommendations. What is an appropriate lifecycle action?",
+    "answer": "Initiate incident handling, analyze root causes, and update lifecycle activities such as design, data, or controls to reduce recurrence.",
+    "options": [
+      "Ignore the issue because it does not happen in every case.",
+      "Initiate incident handling, analyze root causes, and update lifecycle activities such as design, data, or controls to reduce recurrence.",
+      "Increase the number of recommendations shown to users.",
+      "Turn off all logging to avoid documenting unsafe behavior."
+    ],
+    "correctIndex": 1
+  }
+]

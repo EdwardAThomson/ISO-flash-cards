@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A5L1-01",
+    "question": "In an AIMS, what is the main purpose of governing data used by AI systems?",
+    "answer": "To ensure data is collected, prepared, and used in a controlled way that supports reliable, lawful, and responsible AI outcomes.",
+    "options": [
+      "To maximize the amount of data collected regardless of relevance.",
+      "To ensure data is collected, prepared, and used in a controlled way that supports reliable, lawful, and responsible AI outcomes.",
+      "To guarantee that AI models will never need retraining.",
+      "To avoid documenting how data is obtained or processed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L1-02",
+    "question": "Which of the following is typically part of AI data governance in an AIMS?",
+    "answer": "Defining rules for data sourcing, labeling, quality checks, and access control.",
+    "options": [
+      "Allowing any employee to modify training data without oversight.",
+      "Defining rules for data sourcing, labeling, quality checks, and access control.",
+      "Using only synthetic data so no rules are needed.",
+      "Focusing solely on model hyperparameters and ignoring data."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L1-03",
+    "question": "Why is documentation of AI models important for governance?",
+    "answer": "Documentation records how models were designed, trained, and validated so they can be understood, reviewed, and maintained.",
+    "options": [
+      "Documentation is optional once a model is in production.",
+      "Documentation records how models were designed, trained, and validated so they can be understood, reviewed, and maintained.",
+      "Documentation is needed only for marketing materials.",
+      "Documentation is mainly used to store old versions of source code."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L1-04",
+    "question": "What is a model inventory in the context of AI governance?",
+    "answer": "A maintained list of AI models and services, including key attributes such as purpose, owners, and status.",
+    "options": [
+      "A catalog of every piece of hardware in the data center.",
+      "A maintained list of AI models and services, including key attributes such as purpose, owners, and status.",
+      "A financial report listing AI project costs only.",
+      "A list of user interface designs for AI applications."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L2-01",
+    "question": "Why should training, validation, and test datasets be distinguished in AI governance?",
+    "answer": "Because separating these datasets supports fair evaluation of model performance and reduces the risk of overfitting.",
+    "options": [
+      "Because regulations require at least three datasets for every project.",
+      "Because separating these datasets supports fair evaluation of model performance and reduces the risk of overfitting.",
+      "Because it guarantees models will never need to be updated.",
+      "Because it reduces the need for any monitoring in production."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L2-02",
+    "question": "How does controlling access to AI training data support responsible AI?",
+    "answer": "It helps protect sensitive information and reduces the chance of unauthorized changes that could degrade model behavior.",
+    "options": [
+      "It mainly helps improve model training speed.",
+      "It helps protect sensitive information and reduces the chance of unauthorized changes that could degrade model behavior.",
+      "It ensures that everyone in the organization can see all personal data.",
+      "It removes the need for any testing before deployment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L2-03",
+    "question": "Why should organizations track the origin and transformations of AI data (data lineage)?",
+    "answer": "So they can understand how data was obtained and modified, which supports accountability, troubleshooting, and compliance checks.",
+    "options": [
+      "So they can delete all records after training is complete.",
+      "So they can understand how data was obtained and modified, which supports accountability, troubleshooting, and compliance checks.",
+      "So they can guarantee that no data quality issues will ever occur.",
+      "So they can avoid documenting any AI decisions."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L3-01",
+    "question": "A team wants to reuse a customer dataset collected for a different purpose to train a new AI recommendation model. What should they do under an AIMS?",
+    "answer": "Review whether the new use is consistent with data governance rules and obligations, and obtain additional permissions or safeguards if needed.",
+    "options": [
+      "Immediately use the dataset because it is already stored internally.",
+      "Review whether the new use is consistent with data governance rules and obligations, and obtain additional permissions or safeguards if needed.",
+      "Publish the dataset publicly so customers can audit it themselves.",
+      "Delete the dataset to avoid having to make a decision."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L3-02",
+    "question": "Monitoring shows that an AI model is performing poorly for a specific group of users. What data governance action is most appropriate?",
+    "answer": "Examine data coverage and quality for the affected group, and adjust collection, labeling, or sampling so training data better represents them.",
+    "options": [
+      "Ignore the issue if overall accuracy is acceptable.",
+      "Examine data coverage and quality for the affected group, and adjust collection, labeling, or sampling so training data better represents them.",
+      "Disable monitoring to avoid receiving further alerts.",
+      "Raise prices for the affected group instead of changing the model."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A5L3-03",
+    "question": "An AI service relies on third-party training data. What is a good AIMS-aligned practice for model and data governance?",
+    "answer": "Define and document requirements for the third-party data, including quality, provenance, update frequency, and rights to use it.",
+    "options": [
+      "Assume the third party manages all governance so no internal controls are needed.",
+      "Define and document requirements for the third-party data, including quality, provenance, update frequency, and rights to use it.",
+      "Use the data indefinitely without reviewing its relevance or license.",
+      "Treat third-party data as outside the scope of the AIMS."
+    ],
+    "correctIndex": 1
+  }
+]

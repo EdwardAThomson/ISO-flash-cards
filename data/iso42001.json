@@ -3,6 +3,7 @@
   "title": "ISO 42001: AI Mgt.",
   "questions": [
     {
+      "id": "ISO42001-INTRO-01",
       "question": "What new management system does ISO 42001 introduce?",
       "answer": "An Artificial Intelligence Management System (AIMS).",
       "options": [
@@ -14,6 +15,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-02",
       "question": "Which lifecycle does ISO 42001 expect organizations to manage?",
       "answer": "The entire AI system lifecycle from conception to retirement must be governed.",
       "options": [
@@ -25,6 +27,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-03",
       "question": "What governance element is emphasized for responsible AI in ISO 42001?",
       "answer": "Documented accountability with human oversight of AI outcomes.",
       "options": [
@@ -36,6 +39,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-04",
       "question": "Which document records the scope, policies, and procedures of the Artificial Intelligence Management System?",
       "answer": "The AIMS manual consolidates scope, policies, processes, and continual improvement commitments.",
       "options": [
@@ -47,6 +51,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-05",
       "question": "How does ISO 42001 expect organizations to handle AI-related risks?",
       "answer": "They must identify, assess, and treat AI risks within the same risk management cycle used across the management system.",
       "options": [
@@ -58,6 +63,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-06",
       "question": "What does ISO 42001 say about data used for AI training and inference?",
       "answer": "Data acquisition, preparation, and retention must be governed with documented controls to maintain integrity and privacy.",
       "options": [
@@ -69,6 +75,7 @@
       "correctIndex": 2
     },
     {
+      "id": "ISO42001-INTRO-07",
       "question": "Which activity supports continual improvement within an AIMS?",
       "answer": "Periodic internal audits and management reviews evaluate AI objectives, incidents, and opportunities to refine controls.",
       "options": [

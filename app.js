@@ -7,6 +7,7 @@ const topicDataCache = {};
 
 // --- STATE ---
 let currentTopicKey = "";
+let currentAreaFilter = "all"; // filter by area (e.g., "A1", "A2", or "all")
 let currentMode = "practice"; // 'practice' or 'test'
 let currentQuestions = [];
 let currentQuestionIndex = 0;
@@ -31,6 +32,9 @@ const progressText = document.getElementById('progress-text');
 const questionIdText = document.getElementById('question-id-text');
 const practiceHelper = document.getElementById('practice-helper');
 const sessionSizeInput = document.getElementById('session-size');
+const areaFilterContainer = document.getElementById('area-filter-container');
+const areaSelect = document.getElementById('area-select');
+const questionBankCount = document.getElementById('question-bank-count');
 
 // --- FUNCTIONS ---
 
@@ -43,6 +47,7 @@ async function init() {
 
     // Set up event listeners
     topicSelect.addEventListener('change', handleTopicChange);
+    areaSelect.addEventListener('change', handleAreaChange);
     modePracticeBtn.addEventListener('click', () => handleModeChange('practice'));
     modeTestBtn.addEventListener('click', () => handleModeChange('test'));
     cardInner.addEventListener('click', handleCardClick);
@@ -133,7 +138,28 @@ async function loadTopic(topicKey = topicSelect.value || currentTopicKey) {
         topicSelect.value = topicKey;
         currentQuestionIndex = 0;
         score = 0;
-        const annotatedQuestions = annotateQuestions(topicKey, topicData.questions);
+
+        // Update area filter UI
+        updateAreaFilterUI(topicData);
+
+        // Filter questions by area if applicable
+        let filteredQuestions = topicData.questions;
+        if (currentAreaFilter !== "all" && topicData.areas) {
+            filteredQuestions = topicData.questions.filter(q => {
+                // Match by ID prefix (e.g., "ISO42001-A1L1-01" matches area "A1")
+                return q.id && q.id.includes(`-${currentAreaFilter}`);
+            });
+        }
+
+        // Update question bank count display
+        updateQuestionBankCount(filteredQuestions.length, topicData.questions.length);
+
+        if (!filteredQuestions.length) {
+            showLoadError("No questions available for this area.");
+            return;
+        }
+
+        const annotatedQuestions = annotateQuestions(topicKey, filteredQuestions);
 
         // Clamp session size to available questions and update input constraints
         const total = annotatedQuestions.length;
@@ -151,7 +177,39 @@ async function loadTopic(topicKey = topicSelect.value || currentTopicKey) {
 }
 
 /**
+ * Updates the area filter dropdown based on topic metadata.
+ */
+function updateAreaFilterUI(topicData) {
+    if (topicData.areas && topicData.areas.length > 0) {
+        areaFilterContainer.classList.remove('hidden');
+        areaSelect.innerHTML = '';
+        topicData.areas.forEach(area => {
+            const option = document.createElement('option');
+            option.value = area.id;
+            option.textContent = area.title;
+            areaSelect.appendChild(option);
+        });
+        areaSelect.value = currentAreaFilter;
+    } else {
+        areaFilterContainer.classList.add('hidden');
+        currentAreaFilter = "all";
+    }
+}
+
+/**
+ * Updates the question bank count display.
+ */
+function updateQuestionBankCount(filtered, total) {
+    if (filtered === total) {
+        questionBankCount.textContent = `${total} questions`;
+    } else {
+        questionBankCount.textContent = `${filtered} of ${total} questions`;
+    }
+}
+
+/**
  * Retrieves and caches the JSON data for a specific topic.
+ * Supports both single file (metadata.file) and multiple files (metadata.files).
  */
 async function getTopicData(topicKey) {
     if (topicDataCache[topicKey]) {
@@ -163,14 +221,32 @@ async function getTopicData(topicKey) {
         return null;
     }
 
-    const response = await fetch(metadata.file);
-    if (!response.ok) {
-        throw new Error(`Failed to load topic file ${metadata.file}`);
+    let allQuestions = [];
+
+    // Support multiple files (array) or single file (string)
+    const files = metadata.files || (metadata.file ? [metadata.file] : []);
+
+    for (const filePath of files) {
+        const response = await fetch(filePath);
+        if (!response.ok) {
+            console.warn(`Failed to load topic file ${filePath}`);
+            continue;
+        }
+        const data = await response.json();
+        // Handle both formats: { questions: [...] } or just [...]
+        const questions = Array.isArray(data) ? data : (data.questions || []);
+        allQuestions = allQuestions.concat(questions);
     }
 
-    const data = await response.json();
-    topicDataCache[topicKey] = data;
-    return data;
+    const topicData = {
+        id: metadata.id,
+        title: metadata.title,
+        questions: allQuestions,
+        areas: metadata.areas || null
+    };
+
+    topicDataCache[topicKey] = topicData;
+    return topicData;
 }
 
 /**
@@ -429,7 +505,16 @@ function handleNextQuestion() {
  * Handles changing the topic.
  */
 function handleTopicChange() {
+    currentAreaFilter = "all"; // Reset area filter when topic changes
     loadTopic(topicSelect.value);
+}
+
+/**
+ * Handles changing the area filter.
+ */
+function handleAreaChange() {
+    currentAreaFilter = areaSelect.value;
+    loadTopic(currentTopicKey);
 }
 
 /**

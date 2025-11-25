@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ISO42001-A1L1-01",
+    "question": "In ISO 42001, what is the main purpose of an Artificial Intelligence Management System (AIMS)?",
+    "answer": "To systematically plan, operate, monitor, and improve AI systems so they are controlled, responsible, and aligned with organizational objectives.",
+    "options": [
+      "To replace all existing management systems with a single AI platform.",
+      "To provide a catalog of technical algorithms an organization must implement.",
+      "To systematically plan, operate, monitor, and improve AI systems so they are controlled, responsible, and aligned with organizational objectives.",
+      "To guarantee that all AI systems will be free of errors."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L1-02",
+    "question": "Which kinds of activities are typically covered by the scope of an AIMS under ISO 42001?",
+    "answer": "Activities related to the lifecycle of AI systems, such as planning, development, operation, monitoring, and decommissioning.",
+    "options": [
+      "Only the procurement of cloud services for AI workloads.",
+      "Activities related to the lifecycle of AI systems, such as planning, development, operation, monitoring, and decommissioning.",
+      "Only model training and hyperparameter tuning.",
+      "Only the legal review of AI contracts."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A1L1-03",
+    "question": "Who is ultimately responsible for the AIMS within an organization following ISO 42001?",
+    "answer": "Top management, who must ensure the AIMS is established, resourced, and integrated into business processes.",
+    "options": [
+      "Only external consultants hired to implement AI projects.",
+      "An individual data scientist working on a single model.",
+      "Top management, who must ensure the AIMS is established, resourced, and integrated into business processes.",
+      "Only the IT operations team running the infrastructure."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L1-04",
+    "question": "How does ISO 42001 relate to other management system standards such as ISO 27001 or ISO 9001?",
+    "answer": "It is designed to be compatible with other management system standards so organizations can integrate the AIMS with existing frameworks.",
+    "options": [
+      "It replaces all other management system standards and makes them obsolete.",
+      "It is unrelated to other management system standards and cannot be integrated.",
+      "It is designed to be compatible with other management system standards so organizations can integrate the AIMS with existing frameworks.",
+      "It only applies to organizations that do not use any other standards."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L2-01",
+    "question": "Why is it important to clearly define the scope of the AIMS in ISO 42001?",
+    "answer": "A clear scope ensures everyone understands which AI systems, processes, and locations are controlled by the AIMS, avoiding gaps or unrealistic expectations.",
+    "options": [
+      "Because scope statements are required only for marketing purposes.",
+      "To avoid the need for documenting any supporting processes.",
+      "A clear scope ensures everyone understands which AI systems, processes, and locations are controlled by the AIMS, avoiding gaps or unrealistic expectations.",
+      "So that individual teams can interpret the AIMS requirements in any way they prefer."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L2-02",
+    "question": "How does an AIMS help align AI initiatives with organizational objectives?",
+    "answer": "By requiring objectives, roles, and processes so AI activities support business goals, risk appetite, and responsible AI principles.",
+    "options": [
+      "By allowing each AI team to set its own objectives independently of business strategy.",
+      "By focusing solely on technical model accuracy, ignoring business impact.",
+      "By requiring objectives, roles, and processes so AI activities support business goals, risk appetite, and responsible AI principles.",
+      "By limiting AI to experimental prototypes only."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L2-03",
+    "question": "What is one benefit of implementing an AIMS as a formal management system rather than handling AI risks informally?",
+    "answer": "A formal AIMS provides structured processes, responsibilities, and continual improvement, reducing reliance on ad-hoc decisions.",
+    "options": [
+      "It removes the need to involve top management in AI decisions.",
+      "A formal AIMS provides structured processes, responsibilities, and continual improvement, reducing reliance on ad-hoc decisions.",
+      "It guarantees AI products will always be delivered faster than competitors.",
+      "It eliminates the need to consult affected stakeholders."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ISO42001-A1L3-01",
+    "question": "An organization operates several AI-enabled services but has never defined which ones fall under its AIMS. What is the most appropriate first step?",
+    "answer": "Identify all relevant AI systems and define the AIMS scope so it is clear which systems and activities are covered.",
+    "options": [
+      "Immediately start decommissioning any AI system that looks risky.",
+      "Wait for an external auditor to decide which AI systems are in scope.",
+      "Identify all relevant AI systems and define the AIMS scope so it is clear which systems and activities are covered.",
+      "Leave the scope undefined so teams can apply AIMS controls as they see fit."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L3-02",
+    "question": "A product team wants to launch a new AI feature quickly and argues that the AIMS will slow them down. What is the best response aligned with ISO 42001?",
+    "answer": "Explain that the AIMS is intended to integrate AI work with business objectives and risk management, and that controls should be scaled but not bypassed.",
+    "options": [
+      "Agree to exclude the new feature from the AIMS so it can launch faster.",
+      "Suspend the AIMS for all products until the feature is released.",
+      "Explain that the AIMS is intended to integrate AI work with business objectives and risk management, and that controls should be scaled but not bypassed.",
+      "Require the team to stop all AI work permanently."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ISO42001-A1L3-03",
+    "question": "Top management has approved an AI strategy but has not allocated resources or assigned roles for the AIMS. What should be done to align with ISO 42001?",
+    "answer": "Ensure top management assigns responsibilities and resources so the AIMS can be established, implemented, and maintained effectively.",
+    "options": [
+      "Proceed with the AIMS implementation without defined roles or resources.",
+      "Wait for external regulators to assign roles for the organization.",
+      "Ensure top management assigns responsibilities and resources so the AIMS can be established, implemented, and maintained effectively.",
+      "Limit the AIMS to a single pilot project and ignore the rest of the organization."
+    ],
+    "correctIndex": 2
+  }
+]
