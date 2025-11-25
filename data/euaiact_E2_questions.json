@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E2L1-01",
+    "question": "How many risk tiers does the EU AI Act define?",
+    "answer": "Four tiers: unacceptable risk (prohibited), high risk, limited risk (transparency), and minimal risk.",
+    "options": [
+      "Two tiers: safe and unsafe.",
+      "Three tiers: low, medium, and high.",
+      "Four tiers: unacceptable risk (prohibited), high risk, limited risk (transparency), and minimal risk.",
+      "Five tiers: negligible, low, medium, high, and critical."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E2L1-02",
+    "question": "Which risk tier in the EU AI Act results in AI practices being completely banned?",
+    "answer": "Unacceptable risk, which covers prohibited AI practices under Article 5.",
+    "options": [
+      "High risk.",
+      "Limited risk.",
+      "Minimal risk.",
+      "Unacceptable risk, which covers prohibited AI practices under Article 5."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "EUAIACT-E2L1-03",
+    "question": "What determines whether an AI system is classified as high-risk under the EU AI Act?",
+    "answer": "Whether it is listed in Annex III or is a safety component of a product covered by EU harmonization legislation in Annex I.",
+    "options": [
+      "The amount of training data used to build the model.",
+      "Whether it is listed in Annex III or is a safety component of a product covered by EU harmonization legislation in Annex I.",
+      "The number of users who interact with the system.",
+      "The country where the AI system was developed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E2L1-04",
+    "question": "Which risk tier requires transparency obligations such as informing users they are interacting with AI?",
+    "answer": "Limited risk.",
+    "options": [
+      "Unacceptable risk.",
+      "High risk only.",
+      "Limited risk.",
+      "Minimal risk."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E2L1-05",
+    "question": "What obligations apply to minimal-risk AI systems under the EU AI Act?",
+    "answer": "No specific obligations beyond general law, though voluntary codes of conduct are encouraged.",
+    "options": [
+      "Full conformity assessment and CE marking.",
+      "Mandatory registration in the EU database.",
+      "No specific obligations beyond general law, though voluntary codes of conduct are encouraged.",
+      "Annual audits by notified bodies."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E2L2-01",
+    "question": "Why are AI systems used for recruitment and employment decisions classified as high-risk?",
+    "answer": "Because they can significantly affect individuals' access to employment and livelihoods, impacting fundamental rights.",
+    "options": [
+      "Because they always use biometric data.",
+      "Because they can significantly affect individuals' access to employment and livelihoods, impacting fundamental rights.",
+      "Because they are always inaccurate.",
+      "Because the EU wants to ban all HR technology."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E2L2-02",
+    "question": "How does the EU AI Act treat AI systems used in critical infrastructure such as water, gas, or electricity?",
+    "answer": "As high-risk, because failures could endanger public safety and essential services.",
+    "options": [
+      "As minimal risk, because infrastructure is already regulated.",
+      "As prohibited, because AI should not control infrastructure.",
+      "As high-risk, because failures could endanger public safety and essential services.",
+      "As limited risk, requiring only transparency disclosures."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E2L2-03",
+    "question": "What is the rationale for classifying AI systems that assess creditworthiness as high-risk?",
+    "answer": "Such systems can determine access to essential financial services and may discriminate against individuals, affecting their fundamental rights.",
+    "options": [
+      "Because all financial software is automatically high-risk.",
+      "Such systems can determine access to essential financial services and may discriminate against individuals, affecting their fundamental rights.",
+      "Because credit scoring is prohibited in the EU.",
+      "Because banks requested stricter regulation for competitive reasons."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E2L3-01",
+    "question": "A company develops an AI spam filter for email. How would this system likely be classified under the EU AI Act?",
+    "answer": "As minimal risk, since spam filtering does not significantly impact fundamental rights or safety.",
+    "options": [
+      "As prohibited, because filtering content is censorship.",
+      "As high-risk, because it processes personal communications.",
+      "As limited risk, requiring disclosure to all email users.",
+      "As minimal risk, since spam filtering does not significantly impact fundamental rights or safety."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "EUAIACT-E2L3-02",
+    "question": "An AI system is used to triage emergency calls and dispatch ambulances. What risk classification likely applies?",
+    "answer": "High-risk, because it affects access to emergency services and could impact health and safety.",
+    "options": [
+      "Minimal risk, because it assists rather than replaces human dispatchers.",
+      "Limited risk, requiring only transparency to callers.",
+      "High-risk, because it affects access to emergency services and could impact health and safety.",
+      "Unacceptable risk, because AI should not make life-or-death decisions."
+    ],
+    "correctIndex": 2
+  }
+]

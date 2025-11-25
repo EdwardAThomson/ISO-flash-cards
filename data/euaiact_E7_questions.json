@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E7L1-01",
+    "question": "What is the role of the European Artificial Intelligence Board under the EU AI Act?",
+    "answer": "To advise the Commission, facilitate cooperation among national authorities, and issue recommendations and opinions on AI regulation.",
+    "options": [
+      "To develop AI systems for EU institutions.",
+      "To advise the Commission, facilitate cooperation among national authorities, and issue recommendations and opinions on AI regulation.",
+      "To directly fine companies that violate the Act.",
+      "To certify all AI systems before market placement."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L1-02",
+    "question": "What is the AI Office under the EU AI Act?",
+    "answer": "A body within the European Commission that supervises GPAI models, coordinates enforcement, supports innovation, and manages the EU AI database.",
+    "options": [
+      "A private consulting firm hired by the EU.",
+      "A body within the European Commission that supervises GPAI models, coordinates enforcement, supports innovation, and manages the EU AI database.",
+      "A national agency in each Member State.",
+      "An international organization outside the EU."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L1-03",
+    "question": "Who is responsible for market surveillance and enforcement of the EU AI Act at the national level?",
+    "answer": "National competent authorities designated by each Member State.",
+    "options": [
+      "Only the European Commission.",
+      "Private certification bodies.",
+      "National competent authorities designated by each Member State.",
+      "Individual AI developers."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E7L1-04",
+    "question": "What is the maximum fine for violations of prohibited AI practices under Article 5?",
+    "answer": "Up to €35 million or 7% of global annual turnover, whichever is higher.",
+    "options": [
+      "Up to €1 million.",
+      "Up to €7.5 million or 1.5% of global annual turnover.",
+      "Up to €15 million or 3% of global annual turnover.",
+      "Up to €35 million or 7% of global annual turnover, whichever is higher."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "EUAIACT-E7L1-05",
+    "question": "What is the maximum fine for non-compliance with high-risk AI system requirements?",
+    "answer": "Up to €15 million or 3% of global annual turnover, whichever is higher.",
+    "options": [
+      "Up to €1 million.",
+      "Up to €7.5 million or 1.5% of global annual turnover.",
+      "Up to €15 million or 3% of global annual turnover, whichever is higher.",
+      "Up to €35 million or 7% of global annual turnover."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E7L2-01",
+    "question": "What factors do authorities consider when determining the amount of a fine under the EU AI Act?",
+    "answer": "Nature, gravity, and duration of the infringement; intentional or negligent character; actions to mitigate damage; cooperation with authorities; previous infringements; and SME status.",
+    "options": [
+      "Only the company's total revenue.",
+      "Nature, gravity, and duration of the infringement; intentional or negligent character; actions to mitigate damage; cooperation with authorities; previous infringements; and SME status.",
+      "Only whether the violation was intentional.",
+      "Only the number of affected users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L2-02",
+    "question": "Besides fines, what other enforcement measures can authorities take under the EU AI Act?",
+    "answer": "Orders to bring AI systems into compliance, withdrawal from market, recall, restriction or prohibition of placing on market, and temporary or permanent market bans.",
+    "options": [
+      "Only monetary fines are available.",
+      "Orders to bring AI systems into compliance, withdrawal from market, recall, restriction or prohibition of placing on market, and temporary or permanent market bans.",
+      "Only criminal prosecution of executives.",
+      "Only public naming and shaming."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L2-03",
+    "question": "What is the role of notified bodies under the EU AI Act?",
+    "answer": "To conduct third-party conformity assessments for certain high-risk AI systems, as accredited and designated by Member States.",
+    "options": [
+      "To develop AI systems for government use.",
+      "To conduct third-party conformity assessments for certain high-risk AI systems, as accredited and designated by Member States.",
+      "To lobby the EU on behalf of AI companies.",
+      "To provide legal defense for companies facing fines."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L3-01",
+    "question": "A company provides incorrect information to authorities during an investigation. What is the maximum fine?",
+    "answer": "Up to €7.5 million or 1.5% of global annual turnover, whichever is higher.",
+    "options": [
+      "No fine for providing incorrect information.",
+      "Up to €7.5 million or 1.5% of global annual turnover, whichever is higher.",
+      "Up to €15 million or 3% of global annual turnover.",
+      "Up to €35 million or 7% of global annual turnover."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E7L3-02",
+    "question": "A small startup violates high-risk AI requirements. How might its SME status affect the penalty?",
+    "answer": "SME status is a factor authorities consider, potentially resulting in reduced fines proportionate to the company's size and resources.",
+    "options": [
+      "SME status has no effect on penalties.",
+      "SMEs are completely exempt from all fines.",
+      "SME status is a factor authorities consider, potentially resulting in reduced fines proportionate to the company's size and resources.",
+      "SMEs face higher fines to deter non-compliance."
+    ],
+    "correctIndex": 2
+  }
+]

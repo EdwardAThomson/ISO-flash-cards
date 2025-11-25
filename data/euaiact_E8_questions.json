@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E8L1-01",
+    "question": "When do the prohibitions on unacceptable AI practices (Article 5) become applicable?",
+    "answer": "February 2, 2025 (6 months after entry into force).",
+    "options": [
+      "August 1, 2024.",
+      "February 2, 2025 (6 months after entry into force).",
+      "August 2, 2026.",
+      "August 2, 2027."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L1-02",
+    "question": "When do obligations for high-risk AI systems generally become applicable?",
+    "answer": "August 2, 2026 (24 months after entry into force).",
+    "options": [
+      "August 1, 2024.",
+      "February 2, 2025.",
+      "August 2, 2026 (24 months after entry into force).",
+      "August 2, 2030."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E8L1-03",
+    "question": "What is an AI regulatory sandbox under the EU AI Act?",
+    "answer": "A controlled environment established by national authorities where innovative AI can be developed and tested under regulatory supervision before full market deployment.",
+    "options": [
+      "A virtual environment for training AI models.",
+      "A controlled environment established by national authorities where innovative AI can be developed and tested under regulatory supervision before full market deployment.",
+      "A children's educational program about AI.",
+      "A database of approved AI systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L1-04",
+    "question": "What support does the EU AI Act provide for SMEs and startups?",
+    "answer": "Priority access to regulatory sandboxes, reduced fees for conformity assessment, and guidance from authorities.",
+    "options": [
+      "Complete exemption from all requirements.",
+      "Priority access to regulatory sandboxes, reduced fees for conformity assessment, and guidance from authorities.",
+      "Free AI development tools from the EU.",
+      "Guaranteed government contracts."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L1-05",
+    "question": "What happens to AI systems lawfully placed on the market before August 2, 2026?",
+    "answer": "They may continue to operate if no significant changes are made, but must comply with the regulation by August 2, 2030 at the latest.",
+    "options": [
+      "They must be immediately withdrawn from the market.",
+      "They are permanently exempt from the regulation.",
+      "They may continue to operate if no significant changes are made, but must comply with the regulation by August 2, 2030 at the latest.",
+      "They automatically become high-risk systems."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E8L2-01",
+    "question": "Why does the EU AI Act use a phased implementation timeline?",
+    "answer": "To give organizations time to understand requirements, adapt their systems, and achieve compliance without disrupting existing AI deployments.",
+    "options": [
+      "Because the EU could not agree on a single date.",
+      "To give organizations time to understand requirements, adapt their systems, and achieve compliance without disrupting existing AI deployments.",
+      "Because high-risk AI does not exist yet.",
+      "To allow the technology to become obsolete first."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L2-02",
+    "question": "How do regulatory sandboxes support innovation while maintaining safety?",
+    "answer": "By providing supervised testing under real-world conditions with safeguards, regulatory guidance, and time-limited participation, allowing innovators to clarify requirements before full deployment.",
+    "options": [
+      "By exempting sandbox participants from all regulations permanently.",
+      "By providing supervised testing under real-world conditions with safeguards, regulatory guidance, and time-limited participation, allowing innovators to clarify requirements before full deployment.",
+      "By preventing any AI from being deployed until fully tested.",
+      "By requiring all AI to be developed within government facilities."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L2-03",
+    "question": "How does the EU AI Act relate to harmonized European standards?",
+    "answer": "Harmonized standards developed by European standardization organizations can provide a presumption of conformity with EU AI Act requirements.",
+    "options": [
+      "Harmonized standards replace the EU AI Act entirely.",
+      "Harmonized standards developed by European standardization organizations can provide a presumption of conformity with EU AI Act requirements.",
+      "Harmonized standards are prohibited under the EU AI Act.",
+      "Only ISO standards are recognized, not European standards."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L3-01",
+    "question": "An organization has a high-risk AI system deployed before August 2026. They plan a major update in 2027. What should they consider?",
+    "answer": "Significant changes may trigger full compliance requirements, so they should assess whether the update constitutes a substantial modification and plan for conformity assessment if needed.",
+    "options": [
+      "Updates are always exempt from the regulation.",
+      "Significant changes may trigger full compliance requirements, so they should assess whether the update constitutes a substantial modification and plan for conformity assessment if needed.",
+      "They must withdraw the system before making any changes.",
+      "Only cosmetic changes are permitted after 2026."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E8L3-02",
+    "question": "A startup wants to test an innovative AI system that might be high-risk. What is the best approach under the EU AI Act?",
+    "answer": "Apply to participate in a regulatory sandbox to develop and test the system under supervision, gaining clarity on requirements before full market deployment.",
+    "options": [
+      "Deploy immediately and wait for enforcement action.",
+      "Abandon the project because high-risk AI is prohibited.",
+      "Apply to participate in a regulatory sandbox to develop and test the system under supervision, gaining clarity on requirements before full market deployment.",
+      "Only develop AI that is guaranteed to be minimal risk."
+    ],
+    "correctIndex": 2
+  }
+]

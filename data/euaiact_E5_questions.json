@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E5L1-01",
+    "question": "What transparency obligation applies to AI systems designed to interact directly with people?",
+    "answer": "Users must be informed that they are interacting with an AI system, unless this is obvious from the circumstances.",
+    "options": [
+      "No transparency is required for interactive AI.",
+      "Users must be informed that they are interacting with an AI system, unless this is obvious from the circumstances.",
+      "Only the AI developer needs to know it is AI.",
+      "Transparency is required only if the AI makes decisions."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L1-02",
+    "question": "How must AI-generated or manipulated content (such as deepfakes) be handled under the EU AI Act?",
+    "answer": "It must be disclosed that the content was artificially generated or manipulated, and the content should be marked in a machine-readable format where technically feasible.",
+    "options": [
+      "No disclosure is required for AI-generated content.",
+      "It must be disclosed that the content was artificially generated or manipulated, and the content should be marked in a machine-readable format where technically feasible.",
+      "Only video deepfakes require disclosure, not audio or images.",
+      "Disclosure is only required if the content is used commercially."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L1-03",
+    "question": "What transparency requirements apply to emotion recognition systems under the EU AI Act?",
+    "answer": "Individuals exposed to such systems must be informed of their operation, except in limited permitted contexts.",
+    "options": [
+      "No transparency is required for emotion recognition.",
+      "Individuals exposed to such systems must be informed of their operation, except in limited permitted contexts.",
+      "Only employers need to be informed, not employees.",
+      "Transparency is required only if emotions are recorded."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L1-04",
+    "question": "What transparency obligation applies to biometric categorization systems?",
+    "answer": "Individuals subject to such systems must be informed of their operation.",
+    "options": [
+      "No transparency is required.",
+      "Individuals subject to such systems must be informed of their operation.",
+      "Only law enforcement must be informed.",
+      "Transparency is optional and left to provider discretion."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L1-05",
+    "question": "Which risk tier in the EU AI Act is primarily associated with transparency obligations?",
+    "answer": "Limited risk.",
+    "options": [
+      "Unacceptable risk.",
+      "High risk.",
+      "Limited risk.",
+      "Minimal risk."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E5L2-01",
+    "question": "Why does the EU AI Act require disclosure when people interact with AI chatbots?",
+    "answer": "So individuals can make informed decisions about whether to continue the interaction and how much to rely on the AI's outputs.",
+    "options": [
+      "To discourage use of chatbots entirely.",
+      "So individuals can make informed decisions about whether to continue the interaction and how much to rely on the AI's outputs.",
+      "Only to satisfy technical logging requirements.",
+      "To allow competitors to identify AI-powered services."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L2-02",
+    "question": "What is the purpose of requiring machine-readable markers on AI-generated content?",
+    "answer": "To enable automated detection of synthetic content, supporting downstream verification and content moderation.",
+    "options": [
+      "To make AI content easier to index by search engines.",
+      "To enable automated detection of synthetic content, supporting downstream verification and content moderation.",
+      "To increase file sizes for storage billing purposes.",
+      "To prevent AI content from being shared online."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L2-03",
+    "question": "Are there exceptions to the deepfake disclosure requirement under the EU AI Act?",
+    "answer": "Yes, exceptions exist for content that is part of an obviously artistic, creative, satirical, or fictional work, where disclosure would undermine the purpose.",
+    "options": [
+      "No, all deepfakes must be disclosed without exception.",
+      "Yes, exceptions exist for content that is part of an obviously artistic, creative, satirical, or fictional work, where disclosure would undermine the purpose.",
+      "Yes, any content under 30 seconds is exempt.",
+      "Yes, private individuals are fully exempt."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L3-01",
+    "question": "A company deploys a customer service chatbot on its website. What transparency action is required under the EU AI Act?",
+    "answer": "Inform users that they are interacting with an AI system before or at the start of the interaction.",
+    "options": [
+      "No action is required for customer service chatbots.",
+      "Inform users that they are interacting with an AI system before or at the start of the interaction.",
+      "Only disclose if the user explicitly asks whether it is AI.",
+      "Provide full technical documentation of the chatbot to users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E5L3-02",
+    "question": "A news organization uses AI to generate realistic video of a historical figure for a documentary. What transparency obligation applies?",
+    "answer": "The AI-generated nature of the content should be disclosed, though artistic exceptions may apply depending on context and how the content is presented.",
+    "options": [
+      "No disclosure is needed because it is educational content.",
+      "The AI-generated nature of the content should be disclosed, though artistic exceptions may apply depending on context and how the content is presented.",
+      "Only the production crew needs to know.",
+      "Disclosure is only required if the video is monetized."
+    ],
+    "correctIndex": 1
+  }
+]

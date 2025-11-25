@@ -28,6 +28,31 @@
         { "id": "A7", "title": "A7: Oversight & Incidents" },
         { "id": "A8", "title": "A8: Performance & Improvement" }
       ]
+    },
+    {
+      "id": "euaiact",
+      "title": "EU AI Act",
+      "files": [
+        "data/euaiact_E1_questions.json",
+        "data/euaiact_E2_questions.json",
+        "data/euaiact_E3_questions.json",
+        "data/euaiact_E4_questions.json",
+        "data/euaiact_E5_questions.json",
+        "data/euaiact_E6_questions.json",
+        "data/euaiact_E7_questions.json",
+        "data/euaiact_E8_questions.json"
+      ],
+      "areas": [
+        { "id": "all", "title": "All Areas" },
+        { "id": "E1", "title": "E1: Scope & Definitions" },
+        { "id": "E2", "title": "E2: Risk Classification" },
+        { "id": "E3", "title": "E3: Prohibited Practices" },
+        { "id": "E4", "title": "E4: High-Risk Requirements" },
+        { "id": "E5", "title": "E5: Transparency (Limited Risk)" },
+        { "id": "E6", "title": "E6: GPAI Models" },
+        { "id": "E7", "title": "E7: Governance & Penalties" },
+        { "id": "E8", "title": "E8: Timeline & Compliance" }
+      ]
     }
   ]
 }

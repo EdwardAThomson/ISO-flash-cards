@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E6L1-01",
+    "question": "What is a general-purpose AI (GPAI) model under the EU AI Act?",
+    "answer": "An AI model trained on broad data that displays significant generality and can perform a wide range of distinct tasks, often integrated into various downstream systems.",
+    "options": [
+      "Any AI model used by more than one company.",
+      "An AI model trained on broad data that displays significant generality and can perform a wide range of distinct tasks, often integrated into various downstream systems.",
+      "Only AI models that generate text.",
+      "AI models that have been certified for general use."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L1-02",
+    "question": "What documentation must providers of all GPAI models make available?",
+    "answer": "Technical documentation, information for downstream providers, a copyright compliance policy, and a publicly available summary of training data.",
+    "options": [
+      "Only a user manual.",
+      "Technical documentation, information for downstream providers, a copyright compliance policy, and a publicly available summary of training data.",
+      "Only the model's source code.",
+      "No documentation is required for GPAI models."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L1-03",
+    "question": "When is a GPAI model considered to have 'systemic risk' under the EU AI Act?",
+    "answer": "When it has high-impact capabilities, such as training compute exceeding 10^25 FLOPs, significant impact on the EU market, or is designated by the Commission.",
+    "options": [
+      "When it is used by government agencies.",
+      "When it has high-impact capabilities, such as training compute exceeding 10^25 FLOPs, significant impact on the EU market, or is designated by the Commission.",
+      "When it processes personal data.",
+      "When it is open source."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L1-04",
+    "question": "What additional obligations apply to GPAI models with systemic risk?",
+    "answer": "Model evaluation including adversarial testing, risk assessment and mitigation, serious incident tracking and reporting, cybersecurity measures, and energy efficiency reporting.",
+    "options": [
+      "No additional obligations beyond standard GPAI requirements.",
+      "Only annual financial audits.",
+      "Model evaluation including adversarial testing, risk assessment and mitigation, serious incident tracking and reporting, cybersecurity measures, and energy efficiency reporting.",
+      "Only public disclosure of all model weights."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E6L1-05",
+    "question": "Who supervises GPAI models under the EU AI Act?",
+    "answer": "The AI Office within the European Commission.",
+    "options": [
+      "Individual Member State authorities only.",
+      "The AI Office within the European Commission.",
+      "Private certification bodies.",
+      "The European Central Bank."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L2-01",
+    "question": "Why does the EU AI Act have special rules for GPAI models separate from the risk-based classification?",
+    "answer": "Because GPAI models can be integrated into many downstream applications, making it difficult to assess risk at the model level, so obligations focus on transparency and systemic concerns.",
+    "options": [
+      "Because GPAI models are always high-risk.",
+      "Because GPAI models can be integrated into many downstream applications, making it difficult to assess risk at the model level, so obligations focus on transparency and systemic concerns.",
+      "Because GPAI models are exempt from all regulation.",
+      "Because GPAI models are only used for research."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L2-02",
+    "question": "What is the purpose of requiring GPAI providers to publish a summary of training data?",
+    "answer": "To provide transparency about the data used to train the model, supporting copyright compliance and enabling downstream users to understand potential limitations or biases.",
+    "options": [
+      "To allow competitors to replicate the model.",
+      "To provide transparency about the data used to train the model, supporting copyright compliance and enabling downstream users to understand potential limitations or biases.",
+      "To enable users to delete their personal data from the model.",
+      "Only to satisfy academic publication requirements."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L2-03",
+    "question": "What does 'adversarial testing' mean in the context of GPAI models with systemic risk?",
+    "answer": "Testing designed to identify vulnerabilities, failure modes, and potential for misuse by simulating attacks or challenging inputs.",
+    "options": [
+      "Testing conducted by competing AI companies.",
+      "Testing designed to identify vulnerabilities, failure modes, and potential for misuse by simulating attacks or challenging inputs.",
+      "Testing that always results in model failure.",
+      "Legal challenges to the model's deployment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L3-01",
+    "question": "A company develops a large language model and makes it available via API for other businesses to build applications. What GPAI obligations apply?",
+    "answer": "The company must provide technical documentation, information for downstream providers, a copyright compliance policy, and a training data summary. If the model has systemic risk, additional obligations apply.",
+    "options": [
+      "No obligations because the company is not the end deployer.",
+      "The company must provide technical documentation, information for downstream providers, a copyright compliance policy, and a training data summary. If the model has systemic risk, additional obligations apply.",
+      "Only the downstream application builders have obligations.",
+      "GPAI rules only apply to models used by consumers directly."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E6L3-02",
+    "question": "A startup integrates a third-party GPAI model into a high-risk AI application for recruitment. Who is responsible for high-risk compliance?",
+    "answer": "The startup, as the provider of the high-risk AI system, is responsible for ensuring the overall system meets high-risk requirements, though the GPAI provider has separate GPAI obligations.",
+    "options": [
+      "Only the GPAI model provider.",
+      "Only the job applicants using the system.",
+      "The startup, as the provider of the high-risk AI system, is responsible for ensuring the overall system meets high-risk requirements, though the GPAI provider has separate GPAI obligations.",
+      "No one, because responsibility is shared equally."
+    ],
+    "correctIndex": 2
+  }
+]

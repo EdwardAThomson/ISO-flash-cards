@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E4L1-01",
+    "question": "What must providers of high-risk AI systems establish under Article 9 of the EU AI Act?",
+    "answer": "A risk management system that identifies, analyzes, evaluates, and mitigates risks throughout the AI system's lifecycle.",
+    "options": [
+      "A marketing plan for the AI system.",
+      "A risk management system that identifies, analyzes, evaluates, and mitigates risks throughout the AI system's lifecycle.",
+      "A profit-sharing agreement with deployers.",
+      "A public relations strategy for AI incidents."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L1-02",
+    "question": "What does Article 10 of the EU AI Act require regarding data used for high-risk AI systems?",
+    "answer": "Data governance and management practices ensuring training, validation, and testing datasets are relevant, representative, and of appropriate quality.",
+    "options": [
+      "That all data must be purchased from certified vendors.",
+      "Data governance and management practices ensuring training, validation, and testing datasets are relevant, representative, and of appropriate quality.",
+      "That only synthetic data may be used.",
+      "That data must be stored exclusively within the EU."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L1-03",
+    "question": "What is the purpose of technical documentation required for high-risk AI systems under Article 11?",
+    "answer": "To demonstrate compliance with the regulation and provide authorities and deployers with information to assess conformity.",
+    "options": [
+      "To serve as a user manual for end consumers.",
+      "To demonstrate compliance with the regulation and provide authorities and deployers with information to assess conformity.",
+      "To advertise the AI system's capabilities.",
+      "To protect trade secrets from competitors."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L1-04",
+    "question": "What does Article 14 of the EU AI Act require for high-risk AI systems?",
+    "answer": "Human oversight measures that allow humans to monitor, intervene, and override the AI system's operation.",
+    "options": [
+      "Fully autonomous operation without human intervention.",
+      "Human oversight measures that allow humans to monitor, intervene, and override the AI system's operation.",
+      "Replacement of all human decision-makers with AI.",
+      "Human oversight only during the development phase."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L1-05",
+    "question": "What must high-risk AI systems achieve under Article 15 regarding accuracy, robustness, and cybersecurity?",
+    "answer": "Appropriate levels of accuracy, robustness, and cybersecurity throughout their lifecycle, with resilience against errors and attacks.",
+    "options": [
+      "Perfect accuracy with zero errors.",
+      "Appropriate levels of accuracy, robustness, and cybersecurity throughout their lifecycle, with resilience against errors and attacks.",
+      "Only cybersecurity, as accuracy is not regulated.",
+      "Robustness only during initial deployment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L2-01",
+    "question": "Why does the EU AI Act require logging and record-keeping for high-risk AI systems?",
+    "answer": "To enable traceability of the AI system's operation, support post-market monitoring, and facilitate investigation of incidents or non-compliance.",
+    "options": [
+      "Only to calculate billing for AI services.",
+      "To enable traceability of the AI system's operation, support post-market monitoring, and facilitate investigation of incidents or non-compliance.",
+      "To create training data for future AI models.",
+      "Only to satisfy internal IT audit requirements."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L2-02",
+    "question": "What is the purpose of conformity assessment for high-risk AI systems?",
+    "answer": "To verify that the AI system meets all applicable requirements before it can be placed on the market or put into service.",
+    "options": [
+      "To determine the market price of the AI system.",
+      "To verify that the AI system meets all applicable requirements before it can be placed on the market or put into service.",
+      "To compare the AI system's performance against competitors.",
+      "To register patents for the AI technology."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L2-03",
+    "question": "What does CE marking on a high-risk AI system indicate?",
+    "answer": "That the provider declares the AI system conforms to the requirements of the EU AI Act and other applicable EU legislation.",
+    "options": [
+      "That the AI system was manufactured in Europe.",
+      "That the provider declares the AI system conforms to the requirements of the EU AI Act and other applicable EU legislation.",
+      "That the AI system has been approved by a specific Member State.",
+      "That the AI system is exempt from further regulation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E4L3-01",
+    "question": "A provider of a high-risk AI system discovers a serious incident after deployment. What are their obligations?",
+    "answer": "Report the serious incident to the relevant market surveillance authorities and take corrective action.",
+    "options": [
+      "No obligation exists once the system is deployed.",
+      "Only inform affected users if they request information.",
+      "Report the serious incident to the relevant market surveillance authorities and take corrective action.",
+      "Wait for the next annual compliance review to disclose it."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E4L3-02",
+    "question": "A deployer of a high-risk AI system notices the system is producing unexpected outputs. What should they do according to the EU AI Act?",
+    "answer": "Suspend use if there is a risk to health, safety, or fundamental rights, inform the provider, and report to authorities if a serious incident has occurred.",
+    "options": [
+      "Continue using the system and document the outputs for later review.",
+      "Suspend use if there is a risk to health, safety, or fundamental rights, inform the provider, and report to authorities if a serious incident has occurred.",
+      "Modify the AI system's code to fix the issue themselves.",
+      "Only take action if users formally complain."
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E3L1-01",
+    "question": "Under Article 5 of the EU AI Act, which AI practices are completely prohibited?",
+    "answer": "Practices that pose unacceptable risks, such as subliminal manipulation, exploitation of vulnerabilities, social scoring by public authorities, and certain uses of real-time biometric identification.",
+    "options": [
+      "All AI systems that use personal data.",
+      "Practices that pose unacceptable risks, such as subliminal manipulation, exploitation of vulnerabilities, social scoring by public authorities, and certain uses of real-time biometric identification.",
+      "Only AI systems developed outside the European Union.",
+      "AI systems that have not been certified by a notified body."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L1-02",
+    "question": "Is social scoring by public authorities permitted under the EU AI Act?",
+    "answer": "No, social scoring by public authorities that evaluates or classifies people based on social behavior or personal characteristics leading to detrimental treatment is prohibited.",
+    "options": [
+      "Yes, as long as it is transparent to citizens.",
+      "Yes, but only for law enforcement purposes.",
+      "No, social scoring by public authorities that evaluates or classifies people based on social behavior or personal characteristics leading to detrimental treatment is prohibited.",
+      "Only in Member States that opt in."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E3L1-03",
+    "question": "What does the EU AI Act say about AI systems that use subliminal techniques to manipulate behavior?",
+    "answer": "They are prohibited if they materially distort behavior and cause or are likely to cause harm.",
+    "options": [
+      "They are allowed if users consent.",
+      "They are prohibited if they materially distort behavior and cause or are likely to cause harm.",
+      "They are permitted for advertising purposes only.",
+      "They require transparency disclosures but are otherwise allowed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L1-04",
+    "question": "Are AI systems that exploit vulnerabilities due to age, disability, or socio-economic situation permitted?",
+    "answer": "No, exploiting such vulnerabilities to materially distort behavior in ways that cause harm is a prohibited practice.",
+    "options": [
+      "Yes, if the AI system is used for beneficial purposes.",
+      "No, exploiting such vulnerabilities to materially distort behavior in ways that cause harm is a prohibited practice.",
+      "Only if approved by a national ethics committee.",
+      "Yes, as long as the system is accurate."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L1-05",
+    "question": "What is the EU AI Act's position on untargeted scraping of facial images from the internet to build facial recognition databases?",
+    "answer": "It is prohibited.",
+    "options": [
+      "It is allowed if images are publicly available.",
+      "It is prohibited.",
+      "It is permitted for law enforcement only.",
+      "It requires consent from each individual."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L2-01",
+    "question": "Why does the EU AI Act prohibit certain AI practices outright rather than just regulating them?",
+    "answer": "Because these practices are considered to violate fundamental rights and EU values to such a degree that no safeguards could make them acceptable.",
+    "options": [
+      "Because the technology is too new to regulate effectively.",
+      "Because these practices are considered to violate fundamental rights and EU values to such a degree that no safeguards could make them acceptable.",
+      "Because the EU wants to slow down AI development.",
+      "Because these systems are always technically flawed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L2-02",
+    "question": "Are there any exceptions to the prohibition on real-time remote biometric identification in public spaces?",
+    "answer": "Yes, limited exceptions exist for law enforcement in specific circumstances such as searching for missing persons, preventing terrorist attacks, or locating suspects of serious crimes, subject to strict safeguards.",
+    "options": [
+      "No, there are no exceptions whatsoever.",
+      "Yes, limited exceptions exist for law enforcement in specific circumstances such as searching for missing persons, preventing terrorist attacks, or locating suspects of serious crimes, subject to strict safeguards.",
+      "Yes, any public authority can use it with ministerial approval.",
+      "Yes, private companies can use it if they notify users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E3L2-03",
+    "question": "How does the EU AI Act treat emotion recognition systems in the workplace and educational institutions?",
+    "answer": "They are generally prohibited, with limited exceptions for safety or medical purposes.",
+    "options": [
+      "They are fully permitted as long as employees or students consent.",
+      "They are classified as minimal risk with no restrictions.",
+      "They are generally prohibited, with limited exceptions for safety or medical purposes.",
+      "They are encouraged to improve productivity and learning outcomes."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E3L3-01",
+    "question": "A government agency wants to implement an AI system that scores citizens based on their social media activity and adjusts their access to public services accordingly. Is this permitted?",
+    "answer": "No, this is a form of social scoring by a public authority and is prohibited under Article 5.",
+    "options": [
+      "Yes, if the scoring criteria are transparent.",
+      "Yes, if citizens can appeal their scores.",
+      "No, this is a form of social scoring by a public authority and is prohibited under Article 5.",
+      "Only if the system is developed within the EU."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "EUAIACT-E3L3-02",
+    "question": "A company wants to use AI to infer employees' emotional states during meetings to improve team dynamics. What does the EU AI Act say about this?",
+    "answer": "Emotion recognition in the workplace is generally prohibited, so this use would likely not be permitted unless it falls under a narrow exception.",
+    "options": [
+      "It is permitted because it benefits employees.",
+      "It is permitted if employees sign a consent form.",
+      "Emotion recognition in the workplace is generally prohibited, so this use would likely not be permitted unless it falls under a narrow exception.",
+      "It is only prohibited if the data is shared externally."
+    ],
+    "correctIndex": 2
+  }
+]

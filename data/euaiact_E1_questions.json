@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EUAIACT-E1L1-01",
+    "question": "What type of legal instrument is the EU AI Act?",
+    "answer": "A binding EU regulation that applies directly in all Member States without requiring national transposition.",
+    "options": [
+      "A non-binding EU directive that each Member State must transpose into national law.",
+      "A binding EU regulation that applies directly in all Member States without requiring national transposition.",
+      "A voluntary code of conduct for AI developers.",
+      "An international treaty that only applies to signatories."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L1-02",
+    "question": "When did the EU AI Act enter into force?",
+    "answer": "August 1, 2024.",
+    "options": [
+      "January 1, 2023.",
+      "August 1, 2024.",
+      "February 2, 2025.",
+      "August 2, 2026."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L1-03",
+    "question": "According to the EU AI Act, what is an 'AI system'?",
+    "answer": "A machine-based system designed to operate with varying levels of autonomy that infers from inputs how to generate outputs such as predictions, content, recommendations, or decisions.",
+    "options": [
+      "Any software that processes data automatically.",
+      "A machine-based system designed to operate with varying levels of autonomy that infers from inputs how to generate outputs such as predictions, content, recommendations, or decisions.",
+      "Only deep learning neural networks with more than one billion parameters.",
+      "Hardware devices that contain microprocessors."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L1-04",
+    "question": "Who is considered a 'provider' under the EU AI Act?",
+    "answer": "A person or entity that develops an AI system or has one developed and places it on the market or puts it into service under its own name or trademark.",
+    "options": [
+      "Only the end user who operates the AI system.",
+      "A person or entity that develops an AI system or has one developed and places it on the market or puts it into service under its own name or trademark.",
+      "Only government agencies that regulate AI.",
+      "Only companies headquartered in the European Union."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L1-05",
+    "question": "Who is considered a 'deployer' under the EU AI Act?",
+    "answer": "A person or entity using an AI system under its authority, except for personal non-professional use.",
+    "options": [
+      "Only the original developer of the AI system.",
+      "A person or entity using an AI system under its authority, except for personal non-professional use.",
+      "Only cloud service providers hosting AI models.",
+      "Only certified conformity assessment bodies."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L2-01",
+    "question": "Does the EU AI Act apply to organizations located outside the European Union?",
+    "answer": "Yes, if they place AI systems on the EU market or if the output of their AI system is used within the EU.",
+    "options": [
+      "No, it only applies to organizations headquartered in the EU.",
+      "Yes, if they place AI systems on the EU market or if the output of their AI system is used within the EU.",
+      "Only if they have a physical office in an EU Member State.",
+      "Only if they voluntarily opt in to the regulation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L2-02",
+    "question": "Why does the EU AI Act use a risk-based approach rather than regulating all AI systems equally?",
+    "answer": "To focus regulatory requirements on AI systems that pose the greatest risks to health, safety, or fundamental rights, while allowing lower-risk AI to operate with fewer burdens.",
+    "options": [
+      "Because the EU lacks authority to regulate low-risk AI systems.",
+      "To focus regulatory requirements on AI systems that pose the greatest risks to health, safety, or fundamental rights, while allowing lower-risk AI to operate with fewer burdens.",
+      "Because all AI systems are equally dangerous and need identical rules.",
+      "To delay implementation until all AI systems can be assessed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L2-03",
+    "question": "What is the significance of the EU AI Act being a 'regulation' rather than a 'directive'?",
+    "answer": "Regulations apply directly and uniformly across all EU Member States, ensuring consistent rules without variation from national transposition.",
+    "options": [
+      "Regulations are non-binding suggestions while directives are mandatory.",
+      "Regulations apply directly and uniformly across all EU Member States, ensuring consistent rules without variation from national transposition.",
+      "Regulations only apply to public sector organizations.",
+      "Directives are stronger than regulations under EU law."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L3-01",
+    "question": "A US-based company develops an AI hiring tool used by EU employers. Does the EU AI Act apply to this company?",
+    "answer": "Yes, because the AI system is being used within the EU, the provider has obligations under the Act regardless of where they are located.",
+    "options": [
+      "No, because the company is not located in the EU.",
+      "Yes, because the AI system is being used within the EU, the provider has obligations under the Act regardless of where they are located.",
+      "Only if the company has EU customers paying in euros.",
+      "Only if the US has a mutual recognition agreement with the EU."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "EUAIACT-E1L3-02",
+    "question": "An organization uses AI for internal inventory management with no impact on individuals' rights. How does the EU AI Act likely classify this system?",
+    "answer": "As minimal risk, meaning no specific obligations apply beyond general law, though voluntary codes of conduct are encouraged.",
+    "options": [
+      "As prohibited, because all business AI is banned.",
+      "As high-risk, requiring full conformity assessment.",
+      "As minimal risk, meaning no specific obligations apply beyond general law, though voluntary codes of conduct are encouraged.",
+      "As limited risk, requiring transparency disclosures to warehouse staff."
+    ],
+    "correctIndex": 2
+  }
+]
