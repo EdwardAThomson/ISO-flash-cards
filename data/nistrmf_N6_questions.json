@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N6L1-01",
+    "question": "How many stages does the NIST AI RMF identify in the AI system lifecycle?",
+    "answer": "Seven: Plan and Design, Collect and Process Data, Build and Use Model, Verify and Validate, Deploy, Operate and Monitor, and Decommission.",
+    "options": [
+      "Three: Build, Deploy, and Retire.",
+      "Five: Design, Develop, Test, Deploy, and Maintain.",
+      "Seven: Plan and Design, Collect and Process Data, Build and Use Model, Verify and Validate, Deploy, Operate and Monitor, and Decommission.",
+      "Ten stages covering every possible AI activity."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N6L1-02",
+    "question": "During which lifecycle stage should data provenance be documented according to the NIST AI RMF?",
+    "answer": "Collect and Process Data.",
+    "options": [
+      "Plan and Design.",
+      "Collect and Process Data.",
+      "Deploy.",
+      "Decommission."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N6L1-03",
+    "question": "What activities occur during the 'Verify and Validate' lifecycle stage?",
+    "answer": "Testing system performance, evaluating against requirements, assessing trustworthiness, and documenting results.",
+    "options": [
+      "Collecting training data.",
+      "Deploying the system to production.",
+      "Testing system performance, evaluating against requirements, assessing trustworthiness, and documenting results.",
+      "Retiring the AI system."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N6L1-04",
+    "question": "What should be established during the 'Deploy' lifecycle stage?",
+    "answer": "Monitoring mechanisms, user guidance, and feedback mechanisms.",
+    "options": [
+      "Training data sources.",
+      "Algorithm selection.",
+      "Monitoring mechanisms, user guidance, and feedback mechanisms.",
+      "Decommissioning plans."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N6L1-05",
+    "question": "What activities are part of the 'Decommission' lifecycle stage?",
+    "answer": "Planning retirement, managing data and models, documenting lessons learned, and ensuring continuity.",
+    "options": [
+      "Launching the AI system.",
+      "Training new models.",
+      "Planning retirement, managing data and models, documenting lessons learned, and ensuring continuity.",
+      "Collecting user feedback."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N6L2-01",
+    "question": "Why should bias mitigation be considered during the 'Collect and Process Data' stage?",
+    "answer": "Because biased training data can lead to biased AI outputs, and addressing bias early is more effective than trying to fix it after model training.",
+    "options": [
+      "Bias can only be addressed during data collection.",
+      "Because biased training data can lead to biased AI outputs, and addressing bias early is more effective than trying to fix it after model training.",
+      "Bias mitigation is not relevant to data collection.",
+      "Only to satisfy regulatory requirements."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N6L2-02",
+    "question": "How do the four core functions (Govern, Map, Measure, Manage) relate to the AI lifecycle?",
+    "answer": "The functions are applied throughout the lifecycle, with different emphasis at different stages, rather than being sequential phases.",
+    "options": [
+      "Each function corresponds to a specific lifecycle stage.",
+      "The functions are applied throughout the lifecycle, with different emphasis at different stages, rather than being sequential phases.",
+      "Functions are only applied during the Deploy stage.",
+      "Functions replace the lifecycle stages entirely."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N6L2-03",
+    "question": "Why is 'Operate and Monitor' considered a continuous activity rather than a one-time event?",
+    "answer": "Because AI system performance can change over time due to data drift, environmental changes, or emerging risks, requiring ongoing attention.",
+    "options": [
+      "Because regulations require continuous monitoring.",
+      "Because AI system performance can change over time due to data drift, environmental changes, or emerging risks, requiring ongoing attention.",
+      "Only to generate monitoring reports.",
+      "Operate and Monitor is actually a one-time event."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N6L3-01",
+    "question": "An organization is retiring an AI system that processed personal data. What lifecycle considerations apply?",
+    "answer": "Proper data management (retention, deletion), documenting lessons learned, ensuring continuity for dependent processes, and managing any ongoing obligations.",
+    "options": [
+      "Simply turn off the system; no special considerations needed.",
+      "Proper data management (retention, deletion), documenting lessons learned, ensuring continuity for dependent processes, and managing any ongoing obligations.",
+      "Only notify users that the system is being retired.",
+      "Transfer all data to a new AI system automatically."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N6L3-02",
+    "question": "A team is designing a new AI system. At which lifecycle stage should they identify intended use cases and constraints?",
+    "answer": "Plan and Design, where purpose, requirements, constraints, and feasibility are defined.",
+    "options": [
+      "Collect and Process Data.",
+      "Build and Use Model.",
+      "Plan and Design, where purpose, requirements, constraints, and feasibility are defined.",
+      "Operate and Monitor."
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N2L1-01",
+    "question": "What is the purpose of the GOVERN function in the NIST AI RMF?",
+    "answer": "To establish policies, processes, and practices for managing AI risks across the organization and cultivate a culture of risk management.",
+    "options": [
+      "To directly control AI system outputs.",
+      "To establish policies, processes, and practices for managing AI risks across the organization and cultivate a culture of risk management.",
+      "To govern which AI vendors can operate in the market.",
+      "To replace the organization's board of directors for AI decisions."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L1-02",
+    "question": "Which of the following is a key activity under the GOVERN function?",
+    "answer": "Defining roles and responsibilities for AI risk management.",
+    "options": [
+      "Training machine learning models.",
+      "Defining roles and responsibilities for AI risk management.",
+      "Deploying AI systems to production.",
+      "Collecting training data from users."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L1-03",
+    "question": "What does GOVERN 1 address in the NIST AI RMF?",
+    "answer": "Policies, processes, procedures, and practices for AI risk management.",
+    "options": [
+      "Technical specifications for AI models.",
+      "Policies, processes, procedures, and practices for AI risk management.",
+      "Marketing strategies for AI products.",
+      "Hardware requirements for AI systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L1-04",
+    "question": "What is the focus of GOVERN 3 in the NIST AI RMF?",
+    "answer": "AI risk culture, including fostering risk awareness and a risk management mindset.",
+    "options": [
+      "Technical documentation of AI systems.",
+      "AI risk culture, including fostering risk awareness and a risk management mindset.",
+      "Financial budgeting for AI projects.",
+      "Legal contracts with AI vendors."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L1-05",
+    "question": "What does GOVERN 5 emphasize?",
+    "answer": "Stakeholder engagement, including identification, input, and feedback mechanisms.",
+    "options": [
+      "Shareholder profit maximization.",
+      "Stakeholder engagement, including identification, input, and feedback mechanisms.",
+      "Government lobbying activities.",
+      "Competitor analysis."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L2-01",
+    "question": "Why is organizational culture important in the GOVERN function?",
+    "answer": "A culture that supports trustworthy AI helps ensure that risk management practices are actually followed and that employees feel empowered to raise concerns.",
+    "options": [
+      "Culture is not addressed in the GOVERN function.",
+      "A culture that supports trustworthy AI helps ensure that risk management practices are actually followed and that employees feel empowered to raise concerns.",
+      "Culture only matters for marketing purposes.",
+      "Only technical controls matter, not organizational culture."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L2-02",
+    "question": "How does GOVERN 4 relate to enterprise risk management?",
+    "answer": "It addresses integrating AI risk management with the organization's broader enterprise risk management and enabling cross-functional collaboration.",
+    "options": [
+      "It replaces enterprise risk management entirely.",
+      "It addresses integrating AI risk management with the organization's broader enterprise risk management and enabling cross-functional collaboration.",
+      "It only applies to AI-specific risks, separate from other risks.",
+      "It requires creating a completely new risk management function."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L2-03",
+    "question": "What is the purpose of GOVERN 6 in the NIST AI RMF?",
+    "answer": "To monitor and review the effectiveness of AI risk management practices and establish performance metrics.",
+    "options": [
+      "To govern the sixth year of AI system operation.",
+      "To monitor and review the effectiveness of AI risk management practices and establish performance metrics.",
+      "To manage six different AI systems simultaneously.",
+      "To establish six levels of AI risk classification."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L3-01",
+    "question": "An organization has AI projects scattered across departments with no central oversight. What GOVERN activities should they prioritize?",
+    "answer": "Establishing a governance structure, defining roles and responsibilities, and creating organizational AI policies to provide consistent oversight.",
+    "options": [
+      "Immediately deploying more AI systems to catch up with competitors.",
+      "Establishing a governance structure, defining roles and responsibilities, and creating organizational AI policies to provide consistent oversight.",
+      "Outsourcing all AI governance to a third party.",
+      "Waiting for regulations to mandate specific governance structures."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N2L3-02",
+    "question": "A company uses AI services from multiple third-party vendors. Which GOVERN category is most relevant?",
+    "answer": "GOVERN 4, which includes third-party risk management as part of organizational integration.",
+    "options": [
+      "GOVERN 1, because vendors need policies.",
+      "GOVERN 3, because vendors affect culture.",
+      "GOVERN 4, which includes third-party risk management as part of organizational integration.",
+      "GOVERN 6, because vendor effectiveness must be measured."
+    ],
+    "correctIndex": 2
+  }
+]

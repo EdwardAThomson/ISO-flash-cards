@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N4L1-01",
+    "question": "What is the purpose of the MEASURE function in the NIST AI RMF?",
+    "answer": "To employ tools and methodologies to assess AI risks and evaluate trustworthiness characteristics.",
+    "options": [
+      "To measure the physical size of AI hardware.",
+      "To employ tools and methodologies to assess AI risks and evaluate trustworthiness characteristics.",
+      "To measure employee satisfaction with AI systems.",
+      "To calculate the financial return on AI investments."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L1-02",
+    "question": "What does MEASURE 1 address in the NIST AI RMF?",
+    "answer": "Appropriate methods and metrics, including validation methods, test datasets, and evaluation metrics.",
+    "options": [
+      "The first measurement of AI system performance.",
+      "Appropriate methods and metrics, including validation methods, test datasets, and evaluation metrics.",
+      "Measuring one specific AI model.",
+      "The initial budget for AI projects."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L1-03",
+    "question": "Which MEASURE category focuses on accuracy, reliability, robustness, and other AI system performance characteristics?",
+    "answer": "MEASURE 2: AI System Performance.",
+    "options": [
+      "MEASURE 1: Appropriate Methods and Metrics.",
+      "MEASURE 2: AI System Performance.",
+      "MEASURE 3: Testing and Evaluation.",
+      "MEASURE 4: Ongoing Monitoring."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L1-04",
+    "question": "What is the focus of MEASURE 4?",
+    "answer": "Ongoing monitoring, including operational monitoring, performance tracking, and incident detection.",
+    "options": [
+      "Measuring four different AI systems.",
+      "Ongoing monitoring, including operational monitoring, performance tracking, and incident detection.",
+      "The fourth test of an AI system.",
+      "Measuring AI system costs over four quarters."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L1-05",
+    "question": "Which trustworthiness characteristic does MEASURE 2.13 specifically address?",
+    "answer": "Fairness and bias.",
+    "options": [
+      "Security and resilience.",
+      "Privacy.",
+      "Fairness and bias.",
+      "Explainability."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N4L2-01",
+    "question": "Why is uncertainty quantification important in MEASURE 2?",
+    "answer": "It helps users understand the confidence level of AI outputs and make informed decisions about when to rely on or override the AI.",
+    "options": [
+      "It is not important; AI systems should always be certain.",
+      "It helps users understand the confidence level of AI outputs and make informed decisions about when to rely on or override the AI.",
+      "Only to satisfy academic reviewers.",
+      "To calculate insurance premiums for AI systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L2-02",
+    "question": "What is the purpose of testing for failure modes in MEASURE 2.5?",
+    "answer": "To identify how the AI system might fail, under what conditions, and what the consequences would be, enabling proactive risk management.",
+    "options": [
+      "To prove the AI system never fails.",
+      "To identify how the AI system might fail, under what conditions, and what the consequences would be, enabling proactive risk management.",
+      "Only to document failures after they occur.",
+      "To compare failure rates with competitors."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L2-03",
+    "question": "How does MEASURE 3 relate to MEASURE 2?",
+    "answer": "MEASURE 3 covers the planning, execution, and documentation of tests, while MEASURE 2 defines what performance characteristics to evaluate.",
+    "options": [
+      "They are unrelated categories.",
+      "MEASURE 3 covers the planning, execution, and documentation of tests, while MEASURE 2 defines what performance characteristics to evaluate.",
+      "MEASURE 3 replaces MEASURE 2 in later versions.",
+      "MEASURE 2 is for development, MEASURE 3 is for production only."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L3-01",
+    "question": "An AI system performs well on test data but poorly on real-world data from certain demographics. Which MEASURE subcategories are most relevant?",
+    "answer": "MEASURE 2.3 (generalization), MEASURE 2.13 (fairness and bias), and MEASURE 1.2 (test datasets) to assess whether test data was representative.",
+    "options": [
+      "Only MEASURE 2.1 (accuracy and reliability).",
+      "MEASURE 2.3 (generalization), MEASURE 2.13 (fairness and bias), and MEASURE 1.2 (test datasets) to assess whether test data was representative.",
+      "Only MEASURE 4 (ongoing monitoring).",
+      "None; this is a GOVERN issue, not MEASURE."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N4L3-02",
+    "question": "After deploying an AI system, performance degrades over time. Which MEASURE category should have detected this?",
+    "answer": "MEASURE 4: Ongoing Monitoring, which includes operational monitoring and performance tracking.",
+    "options": [
+      "MEASURE 1, because the initial metrics were wrong.",
+      "MEASURE 2, because performance was not tested properly.",
+      "MEASURE 3, because testing was incomplete.",
+      "MEASURE 4: Ongoing Monitoring, which includes operational monitoring and performance tracking."
+    ],
+    "correctIndex": 3
+  }
+]

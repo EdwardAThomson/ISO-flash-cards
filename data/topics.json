@@ -53,6 +53,31 @@
         { "id": "E7", "title": "E7: Governance & Penalties" },
         { "id": "E8", "title": "E8: Timeline & Compliance" }
       ]
+    },
+    {
+      "id": "nistrmf",
+      "title": "NIST AI RMF",
+      "files": [
+        "data/nistrmf_N1_questions.json",
+        "data/nistrmf_N2_questions.json",
+        "data/nistrmf_N3_questions.json",
+        "data/nistrmf_N4_questions.json",
+        "data/nistrmf_N5_questions.json",
+        "data/nistrmf_N6_questions.json",
+        "data/nistrmf_N7_questions.json",
+        "data/nistrmf_N8_questions.json"
+      ],
+      "areas": [
+        { "id": "all", "title": "All Areas" },
+        { "id": "N1", "title": "N1: Overview & Trustworthy AI" },
+        { "id": "N2", "title": "N2: GOVERN Function" },
+        { "id": "N3", "title": "N3: MAP Function" },
+        { "id": "N4", "title": "N4: MEASURE Function" },
+        { "id": "N5", "title": "N5: MANAGE Function" },
+        { "id": "N6", "title": "N6: AI Lifecycle" },
+        { "id": "N7", "title": "N7: Risk Types & Actors" },
+        { "id": "N8", "title": "N8: Practical Application" }
+      ]
     }
   ]
 }

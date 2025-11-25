@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N8L1-01",
+    "question": "What is the first recommended step when getting started with the NIST AI RMF?",
+    "answer": "Understand the framework by reading the document, identifying relevant functions and categories, and determining organizational context.",
+    "options": [
+      "Immediately implement all controls.",
+      "Understand the framework by reading the document, identifying relevant functions and categories, and determining organizational context.",
+      "Hire a certification body.",
+      "Purchase AI risk management software."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L1-02",
+    "question": "Which NIST AI RMF function should organizations typically start with when implementing the framework?",
+    "answer": "GOVERN, to establish the foundation of policies, roles, and culture for AI risk management.",
+    "options": [
+      "MAP, to identify all AI systems first.",
+      "MEASURE, to assess current AI performance.",
+      "GOVERN, to establish the foundation of policies, roles, and culture for AI risk management.",
+      "MANAGE, to immediately address known risks."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N8L1-03",
+    "question": "What resource does NIST provide to help organizations implement the AI RMF?",
+    "answer": "The NIST AI RMF Playbook, which provides implementation guidance, use cases, and examples.",
+    "options": [
+      "A mandatory certification program.",
+      "The NIST AI RMF Playbook, which provides implementation guidance, use cases, and examples.",
+      "A list of approved AI vendors.",
+      "Pre-built AI risk management software."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L1-04",
+    "question": "What are NIST AI RMF Crosswalks?",
+    "answer": "Documents that map the AI RMF to other frameworks and standards, facilitating integration.",
+    "options": [
+      "Physical locations where AI systems are tested.",
+      "Documents that map the AI RMF to other frameworks and standards, facilitating integration.",
+      "Intersections between different AI models.",
+      "Training programs for AI developers."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L1-05",
+    "question": "Can the NIST AI RMF be used alongside ISO standards?",
+    "answer": "Yes, it is designed to complement existing standards like ISO 42001, ISO 31000, and ISO 27001.",
+    "options": [
+      "No, organizations must choose one framework.",
+      "Yes, it is designed to complement existing standards like ISO 42001, ISO 31000, and ISO 27001.",
+      "Only with special permission from NIST.",
+      "Only if the organization is based in the United States."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L2-01",
+    "question": "How should organizations integrate the NIST AI RMF with existing enterprise risk management?",
+    "answer": "By aligning AI risk management with existing risk processes, leveraging existing governance structures, and ensuring AI risks are considered alongside other organizational risks.",
+    "options": [
+      "Replace all existing risk management with the AI RMF.",
+      "By aligning AI risk management with existing risk processes, leveraging existing governance structures, and ensuring AI risks are considered alongside other organizational risks.",
+      "Keep AI risk management completely separate.",
+      "Only use the AI RMF for new AI projects."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L2-02",
+    "question": "Why is iteration important when implementing the NIST AI RMF?",
+    "answer": "Because AI systems and their contexts evolve, requiring organizations to monitor effectiveness, learn from experience, and adapt their approach.",
+    "options": [
+      "Iteration is not recommended; implement once and maintain.",
+      "Because AI systems and their contexts evolve, requiring organizations to monitor effectiveness, learn from experience, and adapt their approach.",
+      "Only to satisfy auditors.",
+      "Because NIST releases new versions frequently."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L2-03",
+    "question": "How can the NIST AI RMF support compliance with AI regulations like the EU AI Act?",
+    "answer": "By providing a structured approach to AI risk management that addresses many of the same concerns as regulations, helping organizations build practices that support compliance.",
+    "options": [
+      "It cannot; the AI RMF is only for U.S. organizations.",
+      "By providing a structured approach to AI risk management that addresses many of the same concerns as regulations, helping organizations build practices that support compliance.",
+      "By automatically certifying compliance with all regulations.",
+      "Only if NIST and the EU sign a mutual recognition agreement."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L3-01",
+    "question": "An organization has mature cybersecurity practices using the NIST Cybersecurity Framework. How should they approach the AI RMF?",
+    "answer": "Leverage existing cybersecurity governance and processes, extend them to address AI-specific risks, and use the AI RMF to fill gaps not covered by cybersecurity alone.",
+    "options": [
+      "Start from scratch; the frameworks are unrelated.",
+      "Leverage existing cybersecurity governance and processes, extend them to address AI-specific risks, and use the AI RMF to fill gaps not covered by cybersecurity alone.",
+      "The Cybersecurity Framework already covers AI; no additional work needed.",
+      "Replace the Cybersecurity Framework with the AI RMF."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N8L3-02",
+    "question": "A small organization with limited resources wants to adopt the NIST AI RMF. What approach is recommended?",
+    "answer": "Start with the most critical AI systems, focus on the most relevant functions and categories, and scale implementation based on risk and available resources.",
+    "options": [
+      "The AI RMF is only for large organizations.",
+      "Implement all functions and categories immediately.",
+      "Start with the most critical AI systems, focus on the most relevant functions and categories, and scale implementation based on risk and available resources.",
+      "Wait until the organization grows larger."
+    ],
+    "correctIndex": 2
+  }
+]

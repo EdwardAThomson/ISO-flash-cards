@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N7L1-01",
+    "question": "Which category of AI risk includes model performance failures and adversarial attacks?",
+    "answer": "Technical risks.",
+    "options": [
+      "Societal risks.",
+      "Organizational risks.",
+      "Technical risks.",
+      "Individual risks."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N7L1-02",
+    "question": "Which category of AI risk includes harmful bias, privacy violations, and environmental impacts?",
+    "answer": "Societal risks.",
+    "options": [
+      "Technical risks.",
+      "Societal risks.",
+      "Organizational risks.",
+      "Individual risks."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N7L1-03",
+    "question": "Which category of AI risk includes reputational damage and regulatory non-compliance?",
+    "answer": "Organizational risks.",
+    "options": [
+      "Technical risks.",
+      "Societal risks.",
+      "Organizational risks.",
+      "Individual risks."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N7L1-04",
+    "question": "Which category of AI risk includes safety hazards and unfair treatment of specific persons?",
+    "answer": "Individual risks.",
+    "options": [
+      "Technical risks.",
+      "Societal risks.",
+      "Organizational risks.",
+      "Individual risks."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "NISTRMF-N7L1-05",
+    "question": "What is an 'AI actor' according to the NIST AI RMF?",
+    "answer": "An organization or person involved in at least one stage of the AI lifecycle, such as developers, deployers, users, or evaluators.",
+    "options": [
+      "A robot that performs in movies.",
+      "An organization or person involved in at least one stage of the AI lifecycle, such as developers, deployers, users, or evaluators.",
+      "Only the person who trains the AI model.",
+      "Only end users of AI systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N7L2-01",
+    "question": "Why does the NIST AI RMF distinguish between different categories of risk?",
+    "answer": "Because different risk types may require different assessment methods, stakeholders, and treatment approaches.",
+    "options": [
+      "Only for academic classification purposes.",
+      "Because different risk types may require different assessment methods, stakeholders, and treatment approaches.",
+      "To make the framework more complex.",
+      "Because regulations require this specific categorization."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N7L2-02",
+    "question": "How can a single AI system create risks across multiple categories?",
+    "answer": "An AI system might have technical vulnerabilities (technical risk), cause unfair outcomes for individuals (individual risk), damage the organization's reputation (organizational risk), and contribute to broader discrimination (societal risk).",
+    "options": [
+      "AI systems only create one type of risk at a time.",
+      "An AI system might have technical vulnerabilities (technical risk), cause unfair outcomes for individuals (individual risk), damage the organization's reputation (organizational risk), and contribute to broader discrimination (societal risk).",
+      "Multiple risk categories only apply to large AI systems.",
+      "Risk categories are mutually exclusive."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N7L2-03",
+    "question": "What is the relationship between AI actors and AI risks?",
+    "answer": "Different AI actors have different roles in creating, identifying, and managing AI risks throughout the lifecycle.",
+    "options": [
+      "Only developers are responsible for AI risks.",
+      "Different AI actors have different roles in creating, identifying, and managing AI risks throughout the lifecycle.",
+      "AI actors are not related to AI risks.",
+      "Only deployers are responsible for AI risks."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N7L3-01",
+    "question": "An AI hiring tool systematically disadvantages candidates from certain backgrounds. Which risk categories are implicated?",
+    "answer": "Individual risks (unfair treatment of candidates), societal risks (discrimination), and organizational risks (legal liability, reputational damage).",
+    "options": [
+      "Only technical risks.",
+      "Only individual risks.",
+      "Individual risks (unfair treatment of candidates), societal risks (discrimination), and organizational risks (legal liability, reputational damage).",
+      "Only organizational risks."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N7L3-02",
+    "question": "A company uses a third-party AI model in their product. Who are the relevant AI actors?",
+    "answer": "The third-party model provider (developer), the company integrating it (deployer/provider of the final product), and the end users.",
+    "options": [
+      "Only the third-party model provider.",
+      "Only the company using the model.",
+      "The third-party model provider (developer), the company integrating it (deployer/provider of the final product), and the end users.",
+      "Only the end users."
+    ],
+    "correctIndex": 2
+  }
+]

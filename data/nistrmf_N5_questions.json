@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N5L1-01",
+    "question": "What is the purpose of the MANAGE function in the NIST AI RMF?",
+    "answer": "To prioritize and respond to AI risks based on assessment results, allocating resources to address identified risks.",
+    "options": [
+      "To manage the AI development team.",
+      "To prioritize and respond to AI risks based on assessment results, allocating resources to address identified risks.",
+      "To manage AI system budgets.",
+      "To manage vendor relationships."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L1-02",
+    "question": "What does MANAGE 1 address in the NIST AI RMF?",
+    "answer": "Risk response, including prioritization, treatment selection, risk acceptance, and risk communication.",
+    "options": [
+      "Managing the first AI project.",
+      "Risk response, including prioritization, treatment selection, risk acceptance, and risk communication.",
+      "The first year of AI operations.",
+      "Managing one specific risk."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L1-03",
+    "question": "What are the typical risk treatment options mentioned in MANAGE 1.2?",
+    "answer": "Mitigate, transfer, avoid, or accept.",
+    "options": [
+      "Ignore, delay, or escalate.",
+      "Mitigate, transfer, avoid, or accept.",
+      "Document, review, and archive.",
+      "Approve, reject, or defer."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L1-04",
+    "question": "What does MANAGE 2 focus on?",
+    "answer": "Risk treatment implementation, including controls, safeguards, human oversight, and redress mechanisms.",
+    "options": [
+      "Managing two AI systems simultaneously.",
+      "Risk treatment implementation, including controls, safeguards, human oversight, and redress mechanisms.",
+      "The second phase of risk management.",
+      "Managing risks for two years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L1-05",
+    "question": "What is the focus of MANAGE 4?",
+    "answer": "Incident response, including planning, response procedures, recovery, and lessons learned.",
+    "options": [
+      "Managing four different risk categories.",
+      "Incident response, including planning, response procedures, recovery, and lessons learned.",
+      "The fourth quarter of operations.",
+      "Managing AI systems for four years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L2-01",
+    "question": "Why is human oversight included in MANAGE 2?",
+    "answer": "To ensure humans can monitor, intervene, and override AI systems when necessary, maintaining accountability and control.",
+    "options": [
+      "Only because regulations require it.",
+      "To ensure humans can monitor, intervene, and override AI systems when necessary, maintaining accountability and control.",
+      "To create jobs for human operators.",
+      "Human oversight is optional in MANAGE 2."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L2-02",
+    "question": "What is the purpose of redress and appeals mechanisms in MANAGE 2.4?",
+    "answer": "To provide affected individuals with ways to challenge AI decisions and seek remedies when harmed.",
+    "options": [
+      "To allow AI systems to appeal their own decisions.",
+      "To provide affected individuals with ways to challenge AI decisions and seek remedies when harmed.",
+      "To appeal regulatory fines.",
+      "To address employee grievances about AI."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L2-03",
+    "question": "How does MANAGE 3 support continuous improvement?",
+    "answer": "Through continuous monitoring, performance evaluation, and effectiveness review, enabling organizations to update risk management based on new information.",
+    "options": [
+      "By managing three improvement initiatives.",
+      "Through continuous monitoring, performance evaluation, and effectiveness review, enabling organizations to update risk management based on new information.",
+      "By replacing the AI system every three years.",
+      "MANAGE 3 does not address continuous improvement."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L3-01",
+    "question": "An AI system causes harm to a user. Which MANAGE categories are most relevant for responding?",
+    "answer": "MANAGE 4 (incident response) for immediate response and recovery, and MANAGE 2.4 (redress) for providing remedies to the affected user.",
+    "options": [
+      "Only MANAGE 1 (risk response).",
+      "MANAGE 4 (incident response) for immediate response and recovery, and MANAGE 2.4 (redress) for providing remedies to the affected user.",
+      "Only MANAGE 3 (monitoring and review).",
+      "None; harm response is not covered in MANAGE."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N5L3-02",
+    "question": "After an AI incident, the organization identifies process gaps. Which MANAGE subcategory addresses learning from incidents?",
+    "answer": "MANAGE 4.4: Lessons learned.",
+    "options": [
+      "MANAGE 1.4: Risk communication.",
+      "MANAGE 2.1: Controls and safeguards.",
+      "MANAGE 3.3: Effectiveness review.",
+      "MANAGE 4.4: Lessons learned."
+    ],
+    "correctIndex": 3
+  }
+]

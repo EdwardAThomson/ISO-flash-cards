@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N3L1-01",
+    "question": "What is the purpose of the MAP function in the NIST AI RMF?",
+    "answer": "To establish context, understand where AI systems will operate, and identify potential impacts and risks.",
+    "options": [
+      "To create geographic maps of AI deployment locations.",
+      "To establish context, understand where AI systems will operate, and identify potential impacts and risks.",
+      "To map AI system code to documentation.",
+      "To create network diagrams of AI infrastructure."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L1-02",
+    "question": "What does MAP 1 address in the NIST AI RMF?",
+    "answer": "Context establishment, including mission, legal landscape, organizational capabilities, and assumptions.",
+    "options": [
+      "Mapping AI models to hardware.",
+      "Context establishment, including mission, legal landscape, organizational capabilities, and assumptions.",
+      "Creating the first version of an AI system.",
+      "Mapping user interfaces to backend systems."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L1-03",
+    "question": "What is the focus of MAP 2 in the NIST AI RMF?",
+    "answer": "Categorization of AI systems and risks, including impact assessment.",
+    "options": [
+      "The second phase of AI development.",
+      "Categorization of AI systems and risks, including impact assessment.",
+      "Mapping two different AI systems together.",
+      "Creating backup copies of AI models."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L1-04",
+    "question": "What does MAP 4 focus on?",
+    "answer": "Identifying potential benefits, potential harms, and affected populations.",
+    "options": [
+      "The fourth year of AI system operation.",
+      "Identifying potential benefits, potential harms, and affected populations.",
+      "Mapping four different risk categories.",
+      "Creating four versions of documentation."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L1-05",
+    "question": "Which MAP category addresses intended use, users, data, and outputs of an AI system?",
+    "answer": "MAP 3: AI System Context.",
+    "options": [
+      "MAP 1: Context Establishment.",
+      "MAP 2: Categorization.",
+      "MAP 3: AI System Context.",
+      "MAP 5: Impact Assessment."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N3L2-01",
+    "question": "Why is understanding the legal and regulatory landscape important in the MAP function?",
+    "answer": "It helps identify compliance requirements and constraints that affect how the AI system can be designed, deployed, and operated.",
+    "options": [
+      "It is not important; MAP only focuses on technical aspects.",
+      "It helps identify compliance requirements and constraints that affect how the AI system can be designed, deployed, and operated.",
+      "Only to satisfy lawyers, not for risk management.",
+      "Legal landscape is addressed in GOVERN, not MAP."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L2-02",
+    "question": "What is the purpose of identifying affected populations in MAP 4?",
+    "answer": "To understand who may be impacted by the AI system so that risks to those groups can be assessed and managed.",
+    "options": [
+      "To target marketing campaigns.",
+      "To understand who may be impacted by the AI system so that risks to those groups can be assessed and managed.",
+      "To count potential customers.",
+      "To exclude certain groups from using the AI."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L2-03",
+    "question": "What does MAP 5 address regarding likelihood and severity?",
+    "answer": "Assessing the likelihood and severity of potential impacts, including downstream and cumulative effects.",
+    "options": [
+      "Only the likelihood of AI system failure.",
+      "Assessing the likelihood and severity of potential impacts, including downstream and cumulative effects.",
+      "Only the severity of financial losses.",
+      "The likelihood of competitors copying the AI system."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L3-01",
+    "question": "An organization is developing an AI system for loan approvals. What MAP activities are most critical?",
+    "answer": "Identifying affected populations (loan applicants), potential harms (unfair denial, discrimination), legal requirements (fair lending laws), and categorizing the risk level.",
+    "options": [
+      "Only mapping the technical architecture.",
+      "Identifying affected populations (loan applicants), potential harms (unfair denial, discrimination), legal requirements (fair lending laws), and categorizing the risk level.",
+      "Only documenting the intended profit margin.",
+      "Mapping the system to competitor products."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N3L3-02",
+    "question": "During MAP activities, a team discovers their AI system could have unintended downstream effects on a vulnerable population. What should they do?",
+    "answer": "Document the finding, assess the likelihood and severity, and ensure this risk is carried forward to MEASURE and MANAGE functions for further analysis and treatment.",
+    "options": [
+      "Ignore it if the primary use case is unaffected.",
+      "Document the finding, assess the likelihood and severity, and ensure this risk is carried forward to MEASURE and MANAGE functions for further analysis and treatment.",
+      "Immediately cancel the project.",
+      "Only address it if regulators specifically require it."
+    ],
+    "correctIndex": 1
+  }
+]

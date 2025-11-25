@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NISTRMF-N1L1-01",
+    "question": "What type of document is the NIST AI Risk Management Framework?",
+    "answer": "A voluntary framework providing guidance for managing AI risks, not a regulation or certifiable standard.",
+    "options": [
+      "A mandatory U.S. federal regulation.",
+      "A voluntary framework providing guidance for managing AI risks, not a regulation or certifiable standard.",
+      "An international treaty on AI governance.",
+      "A certification standard like ISO 27001."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L1-02",
+    "question": "When was NIST AI RMF 1.0 published?",
+    "answer": "January 2023.",
+    "options": [
+      "January 2020.",
+      "January 2023.",
+      "August 2024.",
+      "January 2025."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L1-03",
+    "question": "How many core functions does the NIST AI RMF define?",
+    "answer": "Four: Govern, Map, Measure, and Manage.",
+    "options": [
+      "Two: Assess and Respond.",
+      "Three: Identify, Protect, and Detect.",
+      "Four: Govern, Map, Measure, and Manage.",
+      "Five: Plan, Do, Check, Act, and Review."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "NISTRMF-N1L1-04",
+    "question": "What is the primary goal of the NIST AI RMF?",
+    "answer": "To help organizations manage AI risks and promote trustworthy and responsible AI development and use.",
+    "options": [
+      "To ban high-risk AI systems.",
+      "To help organizations manage AI risks and promote trustworthy and responsible AI development and use.",
+      "To certify AI systems for government use only.",
+      "To replace all other risk management frameworks."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L1-05",
+    "question": "Which of the following is a characteristic of trustworthy AI according to the NIST AI RMF?",
+    "answer": "Valid and reliable.",
+    "options": [
+      "Maximally profitable.",
+      "Valid and reliable.",
+      "Fully autonomous.",
+      "Proprietary and closed-source."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L2-01",
+    "question": "What does 'valid and reliable' mean in the context of trustworthy AI?",
+    "answer": "AI systems produce accurate, consistent outputs and function as intended across different contexts.",
+    "options": [
+      "AI systems are legally validated by courts.",
+      "AI systems produce accurate, consistent outputs and function as intended across different contexts.",
+      "AI systems have been tested by at least three vendors.",
+      "AI systems never produce errors under any circumstances."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L2-02",
+    "question": "How does the NIST AI RMF define 'fair with harmful bias managed'?",
+    "answer": "AI systems are designed to minimize harmful bias, with fairness considered in context and ongoing monitoring for bias and discrimination.",
+    "options": [
+      "AI systems treat all users identically regardless of context.",
+      "AI systems are designed to minimize harmful bias, with fairness considered in context and ongoing monitoring for bias and discrimination.",
+      "AI systems are only used by unbiased operators.",
+      "AI systems automatically eliminate all forms of bias."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L2-03",
+    "question": "Why is the NIST AI RMF described as 'voluntary'?",
+    "answer": "Organizations can choose to adopt it and adapt it to their context; it is not legally mandated or certifiable.",
+    "options": [
+      "Because it only applies to volunteers in research studies.",
+      "Organizations can choose to adopt it and adapt it to their context; it is not legally mandated or certifiable.",
+      "Because NIST has no authority to publish mandatory frameworks.",
+      "Because it is still in draft form."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L3-01",
+    "question": "An organization wants to demonstrate AI risk management to stakeholders but is not subject to specific AI regulations. How might the NIST AI RMF help?",
+    "answer": "It provides a recognized, structured approach to AI risk management that can build stakeholder trust and support future compliance efforts.",
+    "options": [
+      "It cannot help because it is not a regulation.",
+      "It provides a recognized, structured approach to AI risk management that can build stakeholder trust and support future compliance efforts.",
+      "It automatically certifies the organization's AI systems.",
+      "It exempts the organization from all future AI regulations."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "NISTRMF-N1L3-02",
+    "question": "A company already uses ISO 31000 for enterprise risk management. How does the NIST AI RMF relate to this?",
+    "answer": "The NIST AI RMF complements ISO 31000 by providing AI-specific risk management guidance that can integrate with existing enterprise risk processes.",
+    "options": [
+      "The NIST AI RMF replaces ISO 31000 entirely.",
+      "The NIST AI RMF complements ISO 31000 by providing AI-specific risk management guidance that can integrate with existing enterprise risk processes.",
+      "ISO 31000 and NIST AI RMF are incompatible.",
+      "Organizations must choose one framework and cannot use both."
+    ],
+    "correctIndex": 1
+  }
+]

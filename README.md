@@ -4,6 +4,8 @@ A small, static web app to study ISO standards using flashcards and multiple‑c
 
 **Disclaimer**: This is an unofficial study tool — not affiliated with or endorsed by ISO.
 
+**Disclaimer**: This questions were created by AI, not by a human. AI can make mistakes.
+
 ## Features
 - Practice and Test modes
 - Random K‑of‑N session sampling (no bias), labeled 1..K per session
@@ -50,7 +52,3 @@ This is an unofficial study tool — not affiliated with or endorsed by ISO. “
 - Content (Q&A in `data/*.json`): Creative Commons Attribution‑NonCommercial 4.0 International (CC BY‑NC 4.0). You may share and adapt with attribution for non‑commercial use only. Full text: https://creativecommons.org/licenses/by-nc/4.0/
 
 See `LICENSE-CONTENT` for a summary and attribution guidance.
-
-## Contributing
-- PRs and improvements welcome.
-- Please keep any new question/answer wording original and avoid copying text from ISO standards.
