@@ -1,21 +1,21 @@
 {
   "topics": [
-    { "id": "iso27001", "title": "ISO 27001: InfoSec", "file": "data/iso27001.json" },
-    { "id": "iso27005", "title": "ISO 27005: Risk Mgt.", "file": "data/iso27005.json" },
-    { "id": "iso31000", "title": "ISO 31000: Risk Mgt. (General)", "file": "data/iso31000.json" },
+    { "id": "iso27001", "title": "ISO 27001: InfoSec", "file": "data/iso/iso27001.json" },
+    { "id": "iso27005", "title": "ISO 27005: Risk Mgt.", "file": "data/iso/iso27005.json" },
+    { "id": "iso31000", "title": "ISO 31000: Risk Mgt. (General)", "file": "data/iso/iso31000.json" },
     {
       "id": "iso42001",
       "title": "ISO 42001: AI Mgt.",
       "files": [
-        "data/iso42001.json",
-        "data/iso42001_A1_questions.json",
-        "data/iso42001_A2_questions.json",
-        "data/iso42001_A3_questions.json",
-        "data/iso42001_A4_questions.json",
-        "data/iso42001_A5_questions.json",
-        "data/iso42001_A6_questions.json",
-        "data/iso42001_A7_questions.json",
-        "data/iso42001_A8_questions.json"
+        "data/iso/iso42001.json",
+        "data/iso/iso42001_A1_questions.json",
+        "data/iso/iso42001_A2_questions.json",
+        "data/iso/iso42001_A3_questions.json",
+        "data/iso/iso42001_A4_questions.json",
+        "data/iso/iso42001_A5_questions.json",
+        "data/iso/iso42001_A6_questions.json",
+        "data/iso/iso42001_A7_questions.json",
+        "data/iso/iso42001_A8_questions.json"
       ],
       "areas": [
         { "id": "all", "title": "All Areas" },
@@ -33,14 +33,14 @@
       "id": "euaiact",
       "title": "EU AI Act",
       "files": [
-        "data/euaiact_E1_questions.json",
-        "data/euaiact_E2_questions.json",
-        "data/euaiact_E3_questions.json",
-        "data/euaiact_E4_questions.json",
-        "data/euaiact_E5_questions.json",
-        "data/euaiact_E6_questions.json",
-        "data/euaiact_E7_questions.json",
-        "data/euaiact_E8_questions.json"
+        "data/euaiact/euaiact_E1_questions.json",
+        "data/euaiact/euaiact_E2_questions.json",
+        "data/euaiact/euaiact_E3_questions.json",
+        "data/euaiact/euaiact_E4_questions.json",
+        "data/euaiact/euaiact_E5_questions.json",
+        "data/euaiact/euaiact_E6_questions.json",
+        "data/euaiact/euaiact_E7_questions.json",
+        "data/euaiact/euaiact_E8_questions.json"
       ],
       "areas": [
         { "id": "all", "title": "All Areas" },
@@ -58,14 +58,14 @@
       "id": "nistrmf",
       "title": "NIST AI RMF",
       "files": [
-        "data/nistrmf_N1_questions.json",
-        "data/nistrmf_N2_questions.json",
-        "data/nistrmf_N3_questions.json",
-        "data/nistrmf_N4_questions.json",
-        "data/nistrmf_N5_questions.json",
-        "data/nistrmf_N6_questions.json",
-        "data/nistrmf_N7_questions.json",
-        "data/nistrmf_N8_questions.json"
+        "data/nistrmf/nistrmf_N1_questions.json",
+        "data/nistrmf/nistrmf_N2_questions.json",
+        "data/nistrmf/nistrmf_N3_questions.json",
+        "data/nistrmf/nistrmf_N4_questions.json",
+        "data/nistrmf/nistrmf_N5_questions.json",
+        "data/nistrmf/nistrmf_N6_questions.json",
+        "data/nistrmf/nistrmf_N7_questions.json",
+        "data/nistrmf/nistrmf_N8_questions.json"
       ],
       "areas": [
         { "id": "all", "title": "All Areas" },
