@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GDPR-G7L1-01",
+    "question": "Which of the following is a special category of personal data under Article 9?",
+    "answer": "Data concerning health.",
+    "options": [
+      "Email address.",
+      "Data concerning health.",
+      "Employer name.",
+      "Job title."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G7L1-02",
+    "question": "What is the general rule for processing special category data?",
+    "answer": "It is prohibited unless a specific Article 9(2) condition applies and there is a valid Article 6 legal basis.",
+    "options": [
+      "It is always allowed with legitimate interests.",
+      "It is prohibited unless a specific Article 9(2) condition applies and there is a valid Article 6 legal basis.",
+      "It is allowed if data is publicly available.",
+      "It is allowed if the processor agrees."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G7L1-03",
+    "question": "Which of these is an example of high-risk processing likely to trigger a DPIA?",
+    "answer": "Large-scale profiling of customers that affects credit decisions.",
+    "options": [
+      "Small mailing list for a local club.",
+      "Large-scale profiling of customers that affects credit decisions.",
+      "Printing business cards.",
+      "Storing public press releases."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G7L2-01",
+    "question": "Which group typically merits specific protection under GDPR?",
+    "answer": "Children, especially in relation to marketing and online services.",
+    "options": [
+      "Shareholders.",
+      "Children, especially in relation to marketing and online services.",
+      "Suppliers.",
+      "Former employees only."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G7L2-02",
+    "question": "Processing health data for scientific research under GDPR usually requires:",
+    "answer": "Appropriate safeguards such as pseudonymization and data minimization, and a suitable legal basis.",
+    "options": [
+      "No controls, because research is always exempt.",
+      "Only explicit consent in all cases.",
+      "Appropriate safeguards such as pseudonymization and data minimization, and a suitable legal basis.",
+      "Only approval by the marketing department."
+    ],
+    "correctIndex": 2
+  }
+]

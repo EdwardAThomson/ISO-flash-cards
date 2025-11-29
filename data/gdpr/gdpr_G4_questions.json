@@ -1,0 +1,74 @@
+[
+  {
+    "id": "GDPR-G4L1-01",
+    "question": "What does the accountability principle require in practice?",
+    "answer": "Having governance, documentation and controls that show how GDPR obligations are met.",
+    "options": [
+      "Storing all data indefinitely.",
+      "Having governance, documentation and controls that show how GDPR obligations are met.",
+      "Relying solely on verbal assurances from staff.",
+      "Outsourcing all processing to avoid responsibility."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G4L1-02",
+    "question": "Which of the following is a typical component of a GDPR governance framework?",
+    "answer": "Policies, roles, records of processing activities and training.",
+    "options": [
+      "Only a public privacy notice.",
+      "Policies, roles, records of processing activities and training.",
+      "A single annual email about security.",
+      "A list of passwords in a spreadsheet."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G4L1-03",
+    "question": "What is the main purpose of a record of processing activities (RoPA)?",
+    "answer": "To document key details of each processing activity and support accountability and oversight.",
+    "options": [
+      "To track employee performance reviews.",
+      "To document key details of each processing activity and support accountability and oversight.",
+      "To replace privacy notices.",
+      "To serve as a technical backup plan."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G4L2-01",
+    "question": "Which metric best supports monitoring GDPR governance effectiveness?",
+    "answer": "% of processing activities that have up‑to‑date records and DPIAs where required.",
+    "options": [
+      "Total number of emails sent per day.",
+      "% of processing activities that have up‑to‑date records and DPIAs where required.",
+      "Number of people in the IT team.",
+      "Total number of cookies on the website."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G4L2-02",
+    "question": "Which activity is part of a 'three lines of defense' model?",
+    "answer": "Internal audit providing independent assurance on privacy controls.",
+    "options": [
+      "Sales team designing marketing slogans.",
+      "Internal audit providing independent assurance on privacy controls.",
+      "Developers writing source code.",
+      "Customers submitting access requests."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G4L3-01",
+    "question": "Why is regular privacy training important for accountability?",
+    "answer": "It helps ensure staff understand their obligations and can apply policies in daily work.",
+    "options": [
+      "It replaces the need for technical security measures.",
+      "It helps ensure staff understand their obligations and can apply policies in daily work.",
+      "It guarantees that no incidents will ever occur.",
+      "It is only required once at hiring."
+    ],
+    "correctIndex": 1
+  }
+]

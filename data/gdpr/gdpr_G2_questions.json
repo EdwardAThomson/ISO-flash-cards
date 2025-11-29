@@ -1,0 +1,98 @@
+[
+  {
+    "id": "GDPR-G2L1-01",
+    "question": "Which right allows an individual to obtain a copy of their personal data from a controller?",
+    "answer": "The right of access.",
+    "options": [
+      "The right to object.",
+      "The right of access.",
+      "The right to data portability.",
+      "The right to rectification."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G2L1-02",
+    "question": "What is the usual deadline for responding to a data subject rights request?",
+    "answer": "Without undue delay and in any event within one month of receipt.",
+    "options": [
+      "Seven calendar days.",
+      "Fourteen calendar days.",
+      "Without undue delay and in any event within one month of receipt.",
+      "Three months from the next business day."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G2L1-03",
+    "question": "Which right allows individuals to request correction of inaccurate personal data?",
+    "answer": "The right to rectification.",
+    "options": [
+      "The right to erasure.",
+      "The right to rectification.",
+      "The right to restriction of processing.",
+      "The right to be informed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G2L1-04",
+    "question": "The 'right to be forgotten' is another term commonly used for which GDPR right?",
+    "answer": "The right to erasure.",
+    "options": [
+      "The right to erasure.",
+      "The right to data portability.",
+      "The right to object.",
+      "The right to restriction."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GDPR-G2L2-01",
+    "question": "When does the right to data portability apply?",
+    "answer": "When processing is based on consent or contract and carried out by automated means.",
+    "options": [
+      "For any processing involving special category data.",
+      "Whenever the individual is an EU resident.",
+      "When processing is based on consent or contract and carried out by automated means.",
+      "Only for public sector databases."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G2L2-02",
+    "question": "Which right allows individuals to ask a controller to limit how their data is used without deleting it?",
+    "answer": "The right to restriction of processing.",
+    "options": [
+      "The right to erasure.",
+      "The right to object.",
+      "The right to restriction of processing.",
+      "The right to data portability."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G2L2-03",
+    "question": "If an individual objects to direct marketing, what must the controller do?",
+    "answer": "Stop processing the individual's data for direct marketing purposes.",
+    "options": [
+      "Continue processing but log the objection.",
+      "Stop processing the individual's data for direct marketing purposes.",
+      "Ask the data subject to pay a fee to opt out.",
+      "Only stop processing if the DPO agrees."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G2L3-01",
+    "question": "Which right is most relevant when a person is subject to a fully automated credit‑scoring decision that significantly affects them?",
+    "answer": "Rights related to automated decision‑making, including profiling (Article 22).",
+    "options": [
+      "The right to data portability.",
+      "Rights related to automated decision‑making, including profiling (Article 22).",
+      "The right to rectification.",
+      "The right to restriction."
+    ],
+    "correctIndex": 1
+  }
+]

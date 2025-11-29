@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GDPR-G8L1-01",
+    "question": "Which body helps ensure consistent application of GDPR across the EU/EEA?",
+    "answer": "The European Data Protection Board (EDPB).",
+    "options": [
+      "The Court of Justice of the European Union (CJEU).",
+      "The European Commission only.",
+      "The European Data Protection Board (EDPB).",
+      "The World Trade Organization (WTO)."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G8L1-02",
+    "question": "Which of the following is the higher tier of administrative fines under GDPR?",
+    "answer": "Up to 20 million EUR or 4% of total worldwide annual turnover, whichever is higher.",
+    "options": [
+      "Up to 1 million EUR or 0.5% of turnover.",
+      "Up to 5 million EUR or 1% of turnover.",
+      "Up to 10 million EUR or 2% of total worldwide annual turnover, whichever is higher.",
+      "Up to 20 million EUR or 4% of total worldwide annual turnover, whichever is higher."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "GDPR-G8L1-03",
+    "question": "Which factor is considered when a supervisory authority decides on the amount of a fine?",
+    "answer": "Nature, gravity and duration of the infringement, among other factors.",
+    "options": [
+      "Number of years the company has existed.",
+      "Nature, gravity and duration of the infringement, among other factors.",
+      "Whether the company operates only online.",
+      "The personal opinion of the DPO."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G8L2-01",
+    "question": "What can individuals do if they believe their GDPR rights have been infringed?",
+    "answer": "Lodge a complaint with a supervisory authority and seek a judicial remedy.",
+    "options": [
+      "Only complain to the company's customer service.",
+      "Lodge a complaint with a supervisory authority and seek a judicial remedy.",
+      "Only post about it on social media.",
+      "Wait for the authority to contact them."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G8L2-02",
+    "question": "What is the 'one‑stop‑shop' mechanism?",
+    "answer": "A system where a lead supervisory authority coordinates cross‑border GDPR enforcement with other concerned authorities.",
+    "options": [
+      "A process for individuals to compare privacy policies.",
+      "A system where a lead supervisory authority coordinates cross‑border GDPR enforcement with other concerned authorities.",
+      "A scheme for companies to buy GDPR insurance.",
+      "A marketplace for data controllers."
+    ],
+    "correctIndex": 1
+  }
+]

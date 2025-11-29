@@ -93,6 +93,31 @@
         { "id": "N7", "title": "Risk Types & Actors" },
         { "id": "N8", "title": "Practical Application" }
       ]
+    },
+    {
+      "id": "gdpr",
+      "title": "GDPR: Data Protection",
+      "files": [
+        "data/gdpr/gdpr_G1_questions.json",
+        "data/gdpr/gdpr_G2_questions.json",
+        "data/gdpr/gdpr_G3_questions.json",
+        "data/gdpr/gdpr_G4_questions.json",
+        "data/gdpr/gdpr_G5_questions.json",
+        "data/gdpr/gdpr_G6_questions.json",
+        "data/gdpr/gdpr_G7_questions.json",
+        "data/gdpr/gdpr_G8_questions.json"
+      ],
+      "areas": [
+        { "id": "all", "title": "All Areas" },
+        { "id": "G1", "title": "Lawful Bases & Principles" },
+        { "id": "G2", "title": "Data Subject Rights" },
+        { "id": "G3", "title": "Controllers, Processors & DPIAs" },
+        { "id": "G4", "title": "Records, Accountability & Governance" },
+        { "id": "G5", "title": "Security & Breach Notification" },
+        { "id": "G6", "title": "International Transfers" },
+        { "id": "G7", "title": "Special Categories & High-Risk Processing" },
+        { "id": "G8", "title": "Enforcement, Fines & Supervisory Authorities" }
+      ]
     }
   ]
 }

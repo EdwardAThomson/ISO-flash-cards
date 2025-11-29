@@ -1,0 +1,74 @@
+[
+  {
+    "id": "GDPR-G5L1-01",
+    "question": "Which GDPR article focuses on the security of processing?",
+    "answer": "Article 32.",
+    "options": [
+      "Article 12.",
+      "Article 25.",
+      "Article 32.",
+      "Article 82."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G5L1-02",
+    "question": "Which factor is NOT explicitly listed when determining appropriate security measures under Article 32?",
+    "answer": "The company's marketing spend.",
+    "options": [
+      "State of the art.",
+      "Implementation costs.",
+      "Nature, scope, context and purposes of processing.",
+      "The company's marketing spend."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "GDPR-G5L1-03",
+    "question": "Which of the following best describes a 'personal data breach'?",
+    "answer": "A breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data.",
+    "options": [
+      "Any unsuccessful phishing attempt.",
+      "A breach of security leading to accidental or lawful destruction of personal data only.",
+      "A breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data.",
+      "Only public disclosure of personal data to the media."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G5L2-01",
+    "question": "Within what timeframe should a controller notify the supervisory authority of a personal data breach, where feasible?",
+    "answer": "Within 72 hours after becoming aware of it.",
+    "options": [
+      "Immediately, within 1 hour.",
+      "Within 24 hours.",
+      "Within 72 hours after becoming aware of it.",
+      "Within 30 days."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G5L2-02",
+    "question": "When must data subjects be informed of a breach?",
+    "answer": "When the breach is likely to result in a high risk to their rights and freedoms.",
+    "options": [
+      "Whenever any incident occurs, regardless of impact.",
+      "Only when regulators request it.",
+      "When the breach is likely to result in a high risk to their rights and freedoms.",
+      "Only if the data was not encrypted."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G5L3-01",
+    "question": "Which example is most likely to avoid the need to notify data subjects about a breach?",
+    "answer": "Data was encrypted with strong encryption and keys were not compromised.",
+    "options": [
+      "Data was stored in plain text on an unprotected USB stick.",
+      "Data was accidentally emailed to the wrong recipient and then deleted.",
+      "Data was encrypted with strong encryption and keys were not compromised.",
+      "The organization has never had a breach before."
+    ],
+    "correctIndex": 2
+  }
+]

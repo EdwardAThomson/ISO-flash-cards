@@ -20,7 +20,8 @@ const SUMMARY_PATHS = {
     'iso31000': 'data/summaries/iso',
     'iso42001': 'data/summaries/iso',
     'euaiact': 'data/summaries/euaiact',
-    'nistrmf': 'data/summaries/nistrmf'
+    'nistrmf': 'data/summaries/nistrmf',
+    'gdpr': 'data/summaries/gdpr'
 };
 
 // --- FUNCTIONS ---

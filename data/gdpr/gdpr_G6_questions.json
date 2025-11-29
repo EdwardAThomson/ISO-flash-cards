@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GDPR-G6L1-01",
+    "question": "Which GDPR chapter primarily governs international transfers of personal data?",
+    "answer": "Chapter V.",
+    "options": [
+      "Chapter II.",
+      "Chapter III.",
+      "Chapter IV.",
+      "Chapter V."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "GDPR-G6L1-02",
+    "question": "What is an 'adequacy decision'?",
+    "answer": "A European Commission decision that a country or organization ensures an adequate level of data protection.",
+    "options": [
+      "A company's internal risk assessment.",
+      "A European Commission decision that a country or organization ensures an adequate level of data protection.",
+      "A certification by any private auditor.",
+      "An automatic approval for all cloud providers."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G6L1-03",
+    "question": "Which of the following is an example of an 'appropriate safeguard' under Article 46?",
+    "answer": "Standard Contractual Clauses (SCCs) adopted by the European Commission.",
+    "options": [
+      "Any NDA signed with an employee.",
+      "Standard Contractual Clauses (SCCs) adopted by the European Commission.",
+      "An internal company policy not reviewed by anyone.",
+      "Verbal assurances from a foreign partner."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G6L2-01",
+    "question": "What did the Schrems II decision emphasize for organizations using SCCs?",
+    "answer": "They must assess destination country laws and implement supplementary measures where needed.",
+    "options": [
+      "They no longer need SCCs.",
+      "They must always encrypt all data, regardless of context.",
+      "They must assess destination country laws and implement supplementary measures where needed.",
+      "They can freely transfer data to any country without restrictions."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G6L2-02",
+    "question": "Which option is a common technical supplementary measure for international transfers?",
+    "answer": "Strong encryption with keys retained in the EU so the third‑country recipient cannot access plaintext.",
+    "options": [
+      "Deleting all data.",
+      "Strong encryption with keys retained in the EU so the third‑country recipient cannot access plaintext.",
+      "Publishing all data to increase transparency.",
+      "Relying on non‑disclosure agreements alone."
+    ],
+    "correctIndex": 1
+  }
+]

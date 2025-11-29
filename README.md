@@ -33,7 +33,7 @@ Then open the URL shown in your terminal (e.g., `http://localhost:8000` or `http
 ### Learning Mode
 
 - Open `learn.html` (or use the "Learning Mode" link from the main page).
-- Choose a **topic** (e.g., ISO 27001, ISO 42001, EU AI Act, NIST AI RMF).
+- Choose a **topic** (e.g., ISO 27001, ISO 42001, EU AI Act, NIST AI RMF, GDPR).
 - Optionally choose a **section** (sub-area) for that topic.
 - The app loads a short **markdown summary** from `data/summaries/...` and renders it to HTML using `marked.js`.
 
@@ -42,6 +42,7 @@ Current summary coverage:
 - **ISO 42001** — Overview + sections A1–A8 (AIMS scope, context, leadership, risk & impact, data/model governance, lifecycle, oversight, improvement)
 - **EU AI Act** — Overview + sections E1–E8 (scope, risk classes, prohibited AI, high-risk requirements, transparency, GPAI, governance, timeline)
 - **NIST AI RMF** — Overview + sections N1–N8 (overview/trustworthy AI and the GOVERN, MAP, MEASURE, MANAGE functions)
+- **GDPR** — Overview + sections G1–G8 (principles & lawful bases, rights, controllers/processors & DPIAs, governance, security & breaches, transfers, special categories/high‑risk, enforcement)
 
 ## Data Format
 Topics are listed in `data/topics.json`. Each topic file includes an array of questions:

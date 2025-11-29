@@ -1,0 +1,86 @@
+[
+  {
+    "id": "GDPR-G3L1-01",
+    "question": "Who is the 'controller' under GDPR?",
+    "answer": "The entity that determines the purposes and means of processing personal data.",
+    "options": [
+      "The cloud provider that stores the data.",
+      "The entity that determines the purposes and means of processing personal data.",
+      "Any organization that provides IT support.",
+      "The individual data subject whose data is processed."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G3L1-02",
+    "question": "What is a 'processor' under GDPR?",
+    "answer": "An entity that processes personal data on behalf of the controller, following its instructions.",
+    "options": [
+      "Any entity that owns the database.",
+      "An entity that processes personal data on behalf of the controller, following its instructions.",
+      "Only public authorities.",
+      "Only EU‑based organizations."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G3L1-03",
+    "question": "Which document is required whenever a controller engages a processor?",
+    "answer": "A data processing agreement (DPA) or contract meeting Article 28 requirements.",
+    "options": [
+      "A privacy shield certification.",
+      "A data processing agreement (DPA) or contract meeting Article 28 requirements.",
+      "A Schrems II adequacy decision.",
+      "A DPIA signed by the processor."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G3L2-01",
+    "question": "Which of the following is typically included in a Data Protection Impact Assessment (DPIA)?",
+    "answer": "An assessment of risks to individuals and measures to address those risks.",
+    "options": [
+      "Only the organization's financial forecasts.",
+      "An assessment of risks to individuals and measures to address those risks.",
+      "A list of all employees and their salaries.",
+      "Only a copy of the organization's privacy policy."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G3L2-02",
+    "question": "When is a DPIA most clearly required?",
+    "answer": "When processing is likely to result in a high risk to individuals' rights and freedoms, such as large‑scale profiling or health data processing.",
+    "options": [
+      "Whenever any processing occurs.",
+      "Only for paper‑based records.",
+      "When processing is likely to result in a high risk to individuals' rights and freedoms, such as large‑scale profiling or health data processing.",
+      "Only when required by a processor."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G3L2-03",
+    "question": "What is the role of a Data Protection Officer (DPO)?",
+    "answer": "To inform and advise on GDPR obligations, monitor compliance, advise on DPIAs, and act as contact point with supervisory authorities.",
+    "options": [
+      "To approve all marketing campaigns.",
+      "To provide technical support for IT systems.",
+      "To inform and advise on GDPR obligations, monitor compliance, advise on DPIAs, and act as contact point with supervisory authorities.",
+      "To serve as the only person accountable for GDPR compliance."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G3L3-01",
+    "question": "Two organizations jointly decide why and how they will profile users across both of their platforms. What is their likely relationship under GDPR?",
+    "answer": "They are joint controllers.",
+    "options": [
+      "They are controller and processor.",
+      "They are joint controllers.",
+      "They are independent controllers with no GDPR link.",
+      "They are sub‑processors."
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "GDPR-G1L1-01",
+    "question": "Which GDPR principle requires that personal data be collected for specified, explicit and legitimate purposes?",
+    "answer": "The purpose limitation principle.",
+    "options": [
+      "The data minimization principle.",
+      "The accuracy principle.",
+      "The purpose limitation principle.",
+      "The storage limitation principle."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G1L1-02",
+    "question": "Which of the following is NOT a valid legal basis under Article 6 GDPR?",
+    "answer": "Public interest of a non‑EU country without any EU law basis.",
+    "options": [
+      "Consent.",
+      "Contract.",
+      "Legitimate interests.",
+      "Public interest of a non‑EU country without any EU law basis."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "GDPR-G1L1-03",
+    "question": "What does the accountability principle require from controllers?",
+    "answer": "They must comply with the GDPR principles and be able to demonstrate that compliance.",
+    "options": [
+      "They only need to appoint a DPO.",
+      "They must comply with the GDPR principles and be able to demonstrate that compliance.",
+      "They can delegate accountability entirely to processors.",
+      "They must encrypt all personal data in all situations."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G1L1-04",
+    "question": "Which legal basis is most appropriate when processing is necessary to perform a contract with the data subject?",
+    "answer": "Contract (performance of a contract or steps at the data subject's request).",
+    "options": [
+      "Consent.",
+      "Legitimate interests.",
+      "Contract (performance of a contract or steps at the data subject's request).",
+      "Vital interests."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G1L2-01",
+    "question": "When relying on legitimate interests, what additional assessment is expected?",
+    "answer": "A balancing test to check whether data subjects' rights and freedoms override the organization's interests.",
+    "options": [
+      "A DPIA in all cases.",
+      "A balancing test to check whether data subjects' rights and freedoms override the organization's interests.",
+      "A security penetration test.",
+      "An explicit consent check."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G1L2-02",
+    "question": "Which statement best describes valid consent under GDPR?",
+    "answer": "Freely given, specific, informed and unambiguous, expressed by a clear affirmative action.",
+    "options": [
+      "Implied by continued website use, regardless of notice.",
+      "Freely given, specific, informed and unambiguous, expressed by a clear affirmative action.",
+      "Any consent given once, which never needs to be renewed.",
+      "A pre‑ticked box as long as there is a privacy policy."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GDPR-G1L2-03",
+    "question": "Which principle is most directly supported by limiting the amount of data collected to only what is necessary?",
+    "answer": "Data minimization.",
+    "options": [
+      "Accuracy.",
+      "Integrity and confidentiality.",
+      "Data minimization.",
+      "Storage limitation."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "GDPR-G1L3-01",
+    "question": "A company uses a long, detailed privacy notice that is legally accurate but extremely hard to understand. Which principle is it most likely failing?",
+    "answer": "Transparency (information must be concise, intelligible and easily accessible).",
+    "options": [
+      "Data minimization.",
+      "Accuracy.",
+      "Transparency (information must be concise, intelligible and easily accessible).",
+      "Storage limitation."
+    ],
+    "correctIndex": 2
+  }
+]
